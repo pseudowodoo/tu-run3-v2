@@ -1,21 +1,26 @@
 # ✏️ About the Organisers
 
-### MDDI
+###
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Smart Nation Singapore
 
-### SNDG
+![](<.gitbook/assets/SN Logo Landscape Full Colour.png>)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Smart Nation Singapore aims to build a digital-first Singapore – where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in health, transport, urban living, government services and businesses. Led by the Ministry of Digital Development and Information (MDDI), the Smart Nation initiative is our way forward, seamlessly integrating technology to transform how we work, live, and play.
 
-### OGP
+***
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Open Government Products
 
-### GovTech
+![](<.gitbook/assets/OGP logo.png>)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Open Government Products (OGP) builds technology for the public good and accelerates the digital transformation of the Singapore Government by being a space where it can experiment with new tech practices, including new technologies, management techniques, corporate systems, and even cultural norms.
+
+***
 
 ### GovTech Digital Academy
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+![](<.gitbook/assets/GT-DA logo Colour Lock-up (15Dec23) (9) (1).png>)\
+
+
+GovTech Digital Academy (DA) is a “Practitioner for Practitioner” academy that operates at the unique intersection of technology and public service, blending best-in-class technical training with the business of Government for the public service workforce.
