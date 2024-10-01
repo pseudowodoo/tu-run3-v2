@@ -14,6 +14,8 @@ Please take a few minutes to familiarize yourself with how to use Slack. If you 
 
 ### Step 1: Start here
 
+You will receive an email inviting you to a workspace called TechUp. Click JOIN NOW.
+
 {% embed url="https://opengov.notion.site/Instructions-to-Set-Up-Slack-Account-5cb4c896b6264bf497f1ffdb038caea7" %}
 
 ### Step 2: Download Slack for mobile and desktop
