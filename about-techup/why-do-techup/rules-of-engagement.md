@@ -24,7 +24,7 @@ You can also seek help from other colleagues in your learning group or other lea
 
 If your question is not urgent, leave a comment on the [FAQ page](../../readme/frequently-asked-questions.md) and wait for it to be answered.
 
-Lastly, if all else fails or if your question is urgent, you can also approach the respective team(s) and/or POCs who have kindly volunteered their time. You can find their details [here](../meet-the-team.md).
+Lastly, if all else fails or if your question is urgent, you can also approach the respective team(s) and/or POCs who have kindly volunteered their time. You can find their details [here](../meet-the-team/).
 
 Before you do approach someone else about a problem with your code, please read the following guide on how to ask good questions:
 
