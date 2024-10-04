@@ -1,3 +1,7 @@
+---
+icon: chart-line
+---
+
 # Google Analytics
 
 {% hint style="info" %}

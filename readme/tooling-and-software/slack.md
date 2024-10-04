@@ -1,4 +1,4 @@
-# Slack
+# 🖱️ Slack
 
 {% hint style="info" %}
 Slack will be the main channel of communication and information dissemination for this run of TechUp. Please familiarise yourself on how to use Slack.
@@ -8,42 +8,42 @@ Slack will be the main channel of communication and information dissemination fo
 
 You should have already received the email invite to TechUp’s channels on Slack from GovTech. Please be reminded to change your profile picture once you have set up your account, for our identification purposes.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Invitation to Join TechUp's Channels</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Invitation to Join TechUp's Channels</p></figcaption></figure>
 
 1. **Click on "Join Slack" on the Slack invitation email**
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Create Account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Create Account</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Fill in Details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Fill in Details</p></figcaption></figure>
 
 2. **Click on "Create Account" when you are done**
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 3. **Set up your 2FA with your preferred authentication app.**
 4. **Enter the 2FA code and click "Verify code and activiate"**
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 5. **At the above screen click on "Back to your Workspaces"**
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 6. **Click on Launch in Slack in the GVT04 External Workspace**
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 7. **You will now have access to #techup-admin-help, #techup-general, #techup-webapp-help**
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 8. **Click on the profile icon (1) and then "Upload Photo" to Set your profile image**
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 9. **In the #techup-general channel, be sure to check the "Techup Run 3 Canvas" to receive key information**
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 10. **You're done with the setup! Please feel free to say hello! to your fellow participants and organisers. See you soon!**
 

@@ -1,3 +1,7 @@
+---
+icon: git
+---
+
 # GitHub
 
 Creating a GitHub account

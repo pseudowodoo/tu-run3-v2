@@ -1,4 +1,4 @@
-# Tooling Claims Instructions
+# ❗ AOR  & Claims Instructions
 
 Each participant will be allocated a budget on tooling required for TechUp (e.g. to purchase domain name, CDN). The exact amount has been communicated
 

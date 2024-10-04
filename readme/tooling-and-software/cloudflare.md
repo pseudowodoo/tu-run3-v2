@@ -1,3 +1,7 @@
+---
+icon: network-wired
+---
+
 # Cloudflare
 
 ### Creating a Cloudflare account
