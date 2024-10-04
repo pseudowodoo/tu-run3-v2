@@ -16,16 +16,11 @@ Please feel free to put on casual clothes as long as your outfit it does not cre
 
 ### Software and Tooling Requirements
 
-Please read our [tooling guides](tooling-and-software/).
+Please prepare and raise an AOR for your agency approval. Please read our [tooling guides](tooling-and-software/).
 
 
 
-1. Wifi instructions
-2. What to bring
-3.
-4. Tooling and Software (link to top)
 
-Collection of laptops (Pre event)
 
 1. Laptop requirements x\
    Where to go? when to do it? who to contact
