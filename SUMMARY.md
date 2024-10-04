@@ -2,6 +2,7 @@
 
 * [👋 Welcome!](README.md)
   * [ℹ️ Announcements](readme/announcements.md)
+  * [❗ What You Need to Know](readme/what-you-need-to-know.md)
   * [✏️ Tech Up Calendar](readme/tech-up-calendar.md)
   * [Venues](readme/venues.md)
   * [🖥️ Tooling and Software](readme/tooling-and-software/README.md)
@@ -43,7 +44,6 @@
 
 ## ADMIN INSTRUCTIONS
 
-* [❗ What You Need to Know](admin-instructions/what-you-need-to-know.md)
 * [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
 
