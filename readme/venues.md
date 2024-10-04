@@ -41,7 +41,7 @@ Carpark entrance is at Jurong Gateway Road. There are 669 car park bays at B2 & 
 
 Please see below for the parking charges at JEM:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Parking at JEM</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Parking at JEM</p></figcaption></figure>
 {% endtab %}
 
 {% tab title="MDDI Atrium" %}

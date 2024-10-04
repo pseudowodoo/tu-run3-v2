@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Slack Checklist
 
 ### How to get started <a href="#how-to-get-started" id="how-to-get-started"></a>
