@@ -48,7 +48,7 @@
 
 ***
 
-* [❓ Resources](resources/README.md)
+* [🔤 Resources](resources/README.md)
   * [Web Development & Web Application](resources/web-development-and-web-application.md)
   * [How does the Internet work?](resources/how-does-the-internet-work.md)
   * [Design Thinking / User Experience (UX)](resources/design-thinking-user-experience-ux.md)

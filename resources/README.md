@@ -1,3 +1,3 @@
-# ❓ Resources
+# 🔤 Resources
 
 ### Index of Resources
