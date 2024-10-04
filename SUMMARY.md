@@ -15,10 +15,10 @@
   * [✏️ Frequently Asked Questions](readme/frequently-asked-questions.md)
   * [💌 Contact Persons](readme/contact-persons.md)
 
-## ✏️ Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
+## 📖 Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
 
-* [✏️ Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
-* [✏️ Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
+* [👾 Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
+* [🌎 Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 
 ## ✏️ Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
@@ -31,13 +31,12 @@
 
 ## About TechUp
 
-* [✏️ About TechUp](about-techup/about-techup.md)
-* [✏️ Why do TechUp](about-techup/why-do-techup/README.md)
-  * [✏️ Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
-* [✏️ Learning Outcomes](about-techup/learning-outcomes.md)
-* [✏️ Expected Deliverables](about-techup/expected-deliverables.md)
-* [✏️ Meet the Team!](about-techup/meet-the-team/README.md)
-  * [Facilitators](about-techup/meet-the-team/facilitators.md)
+* [🙂 About TechUp](about-techup/about-techup.md)
+* [🤷‍♀️ Why do TechUp](about-techup/why-do-techup/README.md)
+  * [📏 Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
+* [⚙️ Learning Outcomes](about-techup/learning-outcomes.md)
+* [📱 Expected Deliverables](about-techup/expected-deliverables.md)
+* [✏️ Meet the Team!](about-techup/meet-the-team.md)
 * [❓ Learning Groups](about-techup/learning-groups.md)
 * [✏️ Meet your participants](about-techup/meet-your-participants.md)
 * [Get Inspiration: Past TechUp Web Apps built by participants](https://run2.techup.today)
@@ -75,12 +74,12 @@
 ## Policies
 
 * [Legal Note](policies/legal-note.md)
-* [✏️ Attendance Policy](policies/attendance-policy.md)
+* [⌛ Attendance Policy](policies/attendance-policy.md)
 * [✏️ Transport Policy](policies/transport-policy.md)
 
 ***
 
-* [✏️ About the Organisers](about-the-organisers.md)
+* [🇸🇬 About the Organisers](about-the-organisers.md)
 
 ## Hidden Group Example
 
@@ -88,3 +87,4 @@
 * [🚶 Self-Directed Learning Roadmap](hidden-group-example/self-directed-learning-roadmap.md)
 * [Learning Points](hidden-group-example/policy-takeaways/README.md)
   * [Slack Checklist](hidden-group-example/policy-takeaways/slack-checklist.md)
+  * [Facilitators](hidden-group-example/policy-takeaways/facilitators.md)

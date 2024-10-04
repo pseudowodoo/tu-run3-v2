@@ -1,4 +1,4 @@
-# ✏️ Expected Deliverables
+# 📱 Expected Deliverables
 
 1. Build and deploy a sample web application together with instructors.
 

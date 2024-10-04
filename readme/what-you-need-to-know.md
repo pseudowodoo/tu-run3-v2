@@ -1,35 +1,77 @@
 # ❗ What You Need to Know
 
+### Before the Programme
 
+Please be sure to complete the Pre-Work before the start of the programme. Please make sure you have access to LEARN app to access the programme materials.
 
-### What to bring?
+* [Web Development Course on Udemy (via LEARN)](../pre-work/mandatory-course-udemy.md)
+* [How the Internet Works](../resources/how-does-the-internet-work.md)
 
-To complete the hands-on portion of the programme, you are required to be equipped with an internet assessable Non-GSIB laptop. Training venues are airconditioned facilities and may get cold at times. Please bring along a jacket if you need to.
+***
 
-### Dress Code
+### Think of a Problem Statement
 
-Please feel free to put on casual clothes as long as your outfit it does not create any distress, alarm or discomfort to other participants.
+\{{For input \}}
 
-### How to connect to WIFI?
+***
 
-\{{Coming Soon\}}
+### Get on Slack
+
+Please refer to [Slack Guide](tooling-and-software/slack.md) to join our channels.
+
+***
+
+### Refer to the latest Announcements
+
+Please refer to announcements made [here ](announcements.md)and on Slack for the latest.
+
+***
+
+### When and where to go?
+
+Please refer to [TechUp Calendar](tech-up-calendar.md) for the lesson plans for the day. Also refer to [Venues ](venues.md)to plan your journey for in-person sessions.
+
+***
 
 ### Software and Tooling Requirements
 
 Please prepare and raise an AOR for your agency approval. Please read our [tooling guides](tooling-and-software/).
 
+***
+
+### What to bring?
+
+To complete the hands-on portion of the programme, you are required to be equipped with an internet assessable Non-GSIB laptop. Training venues are airconditioned facilities and may get cold at times. Please bring along a jacket if you need to.
+
+***
+
+### Dress Code
+
+Please feel free to put on casual clothes as long as your outfit it does not create any distress, alarm or discomfort to other participants.
+
+***
+
+### Collection of Access Cards
+
+\{{ Coming Soon \}}
+
+***
+
+### Collection of Tees and Lanyard
+
+\{{ Coming Soon \}}
+
+***
+
+### How to connect to WIFI?
+
+\{{Coming Soon\}}
+
+***
 
 
 
 
-1. Laptop requirements x\
-   Where to go? when to do it? who to contact
-
-### Access Card (Day 1)
-
-SOPs where can they go? Access Areas / Getting around
 
 
-
-### Collection of Tees & Lanyards
 

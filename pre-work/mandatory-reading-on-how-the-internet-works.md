@@ -1,4 +1,4 @@
-# ✏️ Mandatory Reading on How the Internet Works
+# 🌎 Mandatory Reading on How the Internet Works
 
 {% hint style="warning" %}
 Please go through these materials before TechUp. These materials will be covered in the quiz on 14 May (30 MCQ, 70% score to pass TechUp).

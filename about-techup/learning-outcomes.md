@@ -1,4 +1,4 @@
-# ✏️ Learning Outcomes
+# ⚙️ Learning Outcomes
 
 ### Learn web development, UX design and product fundamentals to build a basic web app <a href="#learn-web-development-ux-design-and-product-fundamentals-to-build-a-basic-web-app" id="learn-web-development-ux-design-and-product-fundamentals-to-build-a-basic-web-app"></a>
 

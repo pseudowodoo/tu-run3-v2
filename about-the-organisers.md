@@ -1,10 +1,10 @@
-# ✏️ About the Organisers
+# 🇸🇬 About the Organisers
 
 
 
 ### Smart Nation Singapore
 
-![](<.gitbook/assets/image (11).png>)
+![](.gitbook/assets/snlogo.png)
 
 Smart Nation Singapore aims to build a digital-first Singapore – where a Digital Government, Digital Economy and Digital Society harness technology to effect transformation in health, transport, urban living, government services and businesses. Led by the Ministry of Digital Development and Information (MDDI), the Smart Nation initiative is our way forward, seamlessly integrating technology to transform how we work, live, and play.
 

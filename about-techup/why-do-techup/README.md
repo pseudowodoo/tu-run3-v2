@@ -1,4 +1,4 @@
-# ✏️ Why do TechUp
+# 🤷‍♀️ Why do TechUp
 
 ### SN Group Mission <a href="#sn-group-mission" id="sn-group-mission"></a>
 
