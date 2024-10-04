@@ -39,7 +39,7 @@
 * [✏️ Meet the Team!](about-techup/meet-the-team.md)
 * [❓ Learning Groups](about-techup/learning-groups.md)
 * [✏️ Meet your participants](about-techup/meet-your-participants.md)
-* [Get Inspiration: Past TechUp Web Apps built by participants](https://run2.techup.today)
+* [Past TechUp Web Apps (Crtl + Click to open new Tab)](https://run2.techup.today)
 
 ## ADMIN INSTRUCTIONS
 
