@@ -74,7 +74,7 @@
 
 ## Policies
 
-* [✏️ Legal Note](policies/legal-note.md)
+* [Legal Note](policies/legal-note.md)
 * [✏️ Attendance Policy](policies/attendance-policy.md)
 * [✏️ Transport Policy](policies/transport-policy.md)
 
