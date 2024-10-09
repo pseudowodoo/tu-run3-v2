@@ -8,10 +8,10 @@ description: 'Note: image / profile / email ? for facilitators <Yanting + Michel
 
 <summary>Organising Team</summary>
 
-* Advisors: He Ruimin, Stephanie Siow
+* Main Facilitator: Patrick Pang
 * Programme Coordinator: Shen Yunxi
-* Curriculum: Preshant Achuthan
-* Ops: Dawn Hu, A Kanageswari, Tracy Hung
+* Curriculum: Chee Leong Loh
+* Ops: Jeanette Tan, Tong Yanting
 
 </details>
 
