@@ -5,29 +5,29 @@
 {SOME INSTRUCTION TO REFER TO WEEK 1 LINKS}
 
 {% tabs %}
-{% tab title="Mon 28 Oct" %}
+{% tab title="Day 1 (Mon 28 Oct)" %}
 ### Opening day & problem statement/design workshops <a href="#opening-day-and-problem-statement-design-workshops" id="opening-day-and-problem-statement-design-workshops"></a>
 
 Venue: Mapletree Business Centre (MBC) Block 30 Level 11 Jupiter Rooms 1 and 2 (see [Venues](venues.md) for access instructions)
 
-<table data-header-hidden><thead><tr><th width="216">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9.30am - 10.00am</td><td>Introduction to TechUp 🗣️</td></tr><tr><td>10.00am - 11.00am</td><td>How the Internet Works 🗣️</td></tr><tr><td>11.00am - 11.30am</td><td>Tech in the Government - Q&#x26;A by Ruimin 🗣️</td></tr><tr><td>11.30am - 12.30pm</td><td>Lunch 🍔</td></tr><tr><td>12.30pm - 2.30pm</td><td>Workshop: Writing problem statements 📝</td></tr><tr><td>2.30pm - 3.00pm</td><td>Break</td></tr><tr><td>3.00pm - 4.00pm</td><td>Workshop: What is Good Design? 📝</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="216">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9.00am - 9.30 am</td><td>Opening Speech by PS 🗣️</td></tr><tr><td>10.00am - 10.30 am</td><td>Programme Introduction 🗣️</td></tr><tr><td>10.30am - 11.30am</td><td>How the Internet Works 🗣️</td></tr><tr><td>12.00am - 1.30pm</td><td>Lunch 🍔</td></tr><tr><td>1.30pm - 2.30pm</td><td>Workshop: Writing problem statements 📝</td></tr><tr><td> 2.30pm - 3.30pm</td><td>Experimental Mindset</td></tr><tr><td>3.30pm - 4.00pm</td><td>Overview of Web App Development and Git</td></tr><tr><td>4.00pm - 4.30pm</td><td>Tooling Setup</td></tr><tr><td>4.30pm - 5.00pm</td><td>Web App Project Requirements + Debrief</td></tr><tr><td>5.00pm</td><td>End</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Tue 29 Oct" %}
+{% tab title="Day 2 (Tue 29 Oct)" %}
 ### How to design your prototype and conduct user interviews & web dev bootcamp <a href="#how-to-design-your-prototype-and-conduct-user-interviews-and-web-dev-bootcamp" id="how-to-design-your-prototype-and-conduct-user-interviews-and-web-dev-bootcamp"></a>
 
 Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2 (see [Venues ](venues.md)for access instructions)
 
-| Time              | Programme                                                                                                  |
-| ----------------- | ---------------------------------------------------------------------------------------------------------- |
-| 10.00am - 11.30am | Workshop: How to design your prototype 📝                                                                  |
-| 11.30am - 1.00pm  | Lunch 🍔                                                                                                   |
-| 1.00pm - 2.00pm   | Workshop: How to test your prototype (Part I) 📝                                                           |
-| 2.00pm - 4.30pm   | Design and Product office hours to discuss your problem statements 💬                                      |
-| 2.00pm - 6.00pm   | Concurrently, start your [Mandatory Course](../pre-work/mandatory-course-udemy.md) on frontend and HTML 📚 |
+| Time              | Programme                                                                                                                                                             |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10.00am - 12.00pm | Good Design                                                                                                                                                           |
+| 12.00pm - 1.30pm  | Lunch 🍔                                                                                                                                                              |
+| 1.30pm - 2.30pm   | HTML 📝                                                                                                                                                               |
+| 2.30pm - 4.00pm   | <p>CSS <br>Design and Product office hours to discuss your problem statements 💬</p>                                                                                  |
+| 4.00pm - 5.00pm   | <p>Self-paced learning/ Office Hours<br><br>Concurrently, start your <a href="../pre-work/mandatory-course-udemy.md">Mandatory Course</a> on frontend and HTML 📚</p> |
 {% endtab %}
 
-{% tab title="Wed 30 Oct" %}
+{% tab title="Day 3 (Wed 30 Oct)" %}
 ### Product Up, web dev overview, Git/GitHub & tooling demo <a href="#product-up-web-dev-overview-git-github-and-tooling-demo" id="product-up-web-dev-overview-git-github-and-tooling-demo"></a>
 
 Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
@@ -35,7 +35,7 @@ Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
 <table><thead><tr><th width="195">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9.30am - 1.00pm</td><td>ProductUp ⬆️</td></tr><tr><td>1.00pm - 2.30pm</td><td>Lunch 🍔</td></tr><tr><td>2.30pm - 3.00pm</td><td>Overview of Web development and tech stacks 👨🏾‍🏫</td></tr><tr><td>3.00pm - 3.15pm</td><td>Overview of Git repositories, Github, Github Codespaces 👨🏾‍🏫</td></tr><tr><td>3.15pm - 5.00pm</td><td><p>Hands-on: Setting up your tooling 📝 <em>(optional)</em></p><ul><li>Development environment (GitHub Codespaces)</li><li>Hosting platform (Render)</li><li>Porting in pre-written code to Github codespaces &#x26; deploy app on Render</li></ul></td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Thu 31 Oct" %}
+{% tab title="Day 4 (Thu 31 Oct)" %}
 ### Online web dev bootcamp, HTML & fireside chat <a href="#online-web-dev-bootcamp-html-and-fireside-chat" id="online-web-dev-bootcamp-html-and-fireside-chat"></a>
 
 Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
@@ -43,7 +43,7 @@ Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
 <table><thead><tr><th width="183">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10am - 1.15pm</td><td>Study Party 🎉 <em>(optional)</em> Continue your <a href="../pre-work/mandatory-course-udemy.md">Mandatory Course</a> on frontend and HTML 📚</td></tr><tr><td>11am - 12pm</td><td>Mobile vs web apps <em>(optional)</em></td></tr><tr><td>12pm - 1.15pm</td><td>Office Hours <em>(optional)</em></td></tr><tr><td>1.15pm - 2.30pm</td><td>Lunch 🍔</td></tr><tr><td>2.30pm - 3.00pm</td><td>Overview of HTML 👨🏾‍🏫</td></tr><tr><td>3.00pm - 3.30pm</td><td>Hands-on activity: HTML 📝</td></tr><tr><td>3.30pm - 4.00pm</td><td>Office Hours / Coffee Break</td></tr><tr><td>4.00pm - 5.00pm</td><td>Fireside chat with PS (MCI) &#x26; DS (Smart Nation) 🔥</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Fri 1 Nov" %}
+{% tab title="Day 5 (Fri 1 Nov)" %}
 ### CSS & product workshop <a href="#css-and-product-workshop" id="css-and-product-workshop"></a>
 
 Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
