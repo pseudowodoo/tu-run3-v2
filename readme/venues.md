@@ -10,8 +10,8 @@ You may refer to the [TechUp calendar ](tech-up-calendar.md)during the programme
    1. Attendees are to register with the security counter on Level 1 on all training days.
    2. A security pass would be issued to you at the security counter and is to be returned at the end of the day.
    3. If you have any issues with accessing the building, please please [contact us](contact-persons.md).
-2. Web App Presentations on 19 and 20 November are held at **MDDI at Hill Street**. The room allocations will be briefed to you nearer the date.
-3. Demo Day on 22 November will be at **MDDI Atrium** (public access is possible).
+2. Web App Presentations on 19 and 20 November 2024 are held at **MDDI @ Hill Street.** The room allocations will be briefed to you nearer the date.
+3. Demo Day on 22 November 2024 will be at **MDDI Atrium** (public access is possible).
 
 ### Additional Notes: <a href="#additional-notes" id="additional-notes"></a>
 
@@ -24,7 +24,7 @@ You may refer to the [TechUp calendar ](tech-up-calendar.md)during the programme
 {% tab title="MND Office Towers @ JEM" %}
 **Address**
 
-50 Jurong Gateway Road, Singapore 608549
+52 Jurong Gateway Road, Singapore 608550
 
 **Access**
 
