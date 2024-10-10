@@ -4,11 +4,11 @@
 
 * **I cannot attend the programme on some days. What should I do?** \
   \
-  For days you must be excused on (in part or in full due to valid reasons) , please get your RO’s approval in writing, including your reason for absence. Please also copy your agency POC / HR, TechUp Main Facilitator from GovTech \[Patrick Pang ([patrick\_pang@tech.gov.sg](mailto:patrick\_pang@tech.gov.sg))] and TechUp team members from GovTech \[Jeanette Tan ([jeanette\_tan@tech.gov.sg](mailto:jeanette\_tan@tech.gov.sg))] and Yanting Tong ([Tong\_Yanting@tech.gov.sg](mailto:Tong\_Yanting@tech.gov.sg)).\
+  If you need to be excused from any part of the programme (in part or full due to valid reasons), please get your RO’s approval in writing and include your reason for absence. Please also copy your agency POC / HR, TechUp Main Facilitator from GovTech \[Patrick Pang ([patrick\_pang@tech.gov.sg](mailto:patrick\_pang@tech.gov.sg))] and TechUp team members from GovTech \[Jeanette Tan ([jeanette\_tan@tech.gov.sg](mailto:jeanette\_tan@tech.gov.sg))] and Yanting Tong ([Tong\_Yanting@tech.gov.sg](mailto:Tong\_Yanting@tech.gov.sg)).\
 
 * **I have urgent work I need to clear during the programme.** \
   \
-  For days you must be excused on (in part or in full due to valid reasons), please get your RO’s approval in writing, including your reason for absence. Please also copy your agency POC / HR, TechUp Main Facilitator from GovTech \[Patrick Pang ([patrick\_pang@tech.gov.sg](mailto:patrick\_pang@tech.gov.sg))] and TechUp team members from GovTech \[Jeanette Tan ([jeanette\_tan@tech.gov.sg](mailto:jeanette\_tan@tech.gov.sg))] and Yanting Tong ([Tong\_Yanting@tech.gov.sg](mailto:Tong\_Yanting@tech.gov.sg)). \
+  If you need to be excused from any part of the programme (in part or full due to valid reasons), please get your RO’s approval in writing and include your reason for absence. Please also copy your agency POC / HR, TechUp Main Facilitator from GovTech \[Patrick Pang ([patrick\_pang@tech.gov.sg](mailto:patrick\_pang@tech.gov.sg))] and TechUp team members from GovTech \[Jeanette Tan ([jeanette\_tan@tech.gov.sg](mailto:jeanette\_tan@tech.gov.sg))] and Yanting Tong ([Tong\_Yanting@tech.gov.sg](mailto:Tong\_Yanting@tech.gov.sg)).\
   \
   If you appear to be doing work during the programme without prior clearance/approval, Patrick Pang, your Reporting Officer, and your HR POC will be notified.​
 
