@@ -14,10 +14,19 @@
 
 ### Others <a href="#others" id="others"></a>
 
-* **Who should I approach if I need help?** You can try these methods here for self-help or peer-help first. If all else fails, depending on the domain of your question, please approach the organising team and/or volunteers. You can check who would be best placed to answer your question [here](https://info.techup.live/about-techup/meet-the-team). If you're not sure, please approach:
-  * Preshant for all content-related issues
-  * Dawn for all issues not related to content
-  * Yunxi for everything
+* **Who should I approach if I need help?**
+
+You may try these methods here for self-help or peer-help.
+
+o   TechUp Website
+
+o   Slack Help Channels (#techup-webapp-help for web app related issues, #techup-admin-help for all other general issues)
+
+If all else fails, you may reach out to the following representatives via email or Slack:
+
+o   Jeanette Tan at [Jeanette\_Tan@tech.gov.sg](mailto:Jeanette\_Tan@tech.gov.sg)
+
+o   Yanting Tong at [Tong\_Yanting@tech.gov.sg](mailto:Tong\_Yanting@tech.gov.sg)
 
 ### Problem Statement <a href="#problem-statement" id="problem-statement"></a>
 
