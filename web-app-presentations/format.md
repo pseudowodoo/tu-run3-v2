@@ -35,7 +35,7 @@ As earlier mentioned in the [TechUp Deliverables](../about-techup/expected-deliv
 * Optionally, integrate functionality to read and write data into a database. This could involve storing user information, managing content, or any other data persistence requirements that support the core functionality of the web app.
 * _In plain English: you can read, write, update and/or delete data from a database._
 
-**In addition, the web app MUST be deployed to the Internet, and hosted as a live website using** [**Render**](https://info.techup.live/admin-instructions/tooling-and-software/render) **with a purchased domain name and CDN using** [**Cloudflare**](../readme/tooling-and-software/cloudflare.md)**.** In other words, your web app cannot just be hosted on your local computer without being hosted on the Internet. Your web app should also be connected to **Google Analytics**.
+**In addition, the web app MUST be deployed to the Internet, and hosted as a live website using** [**Render**](https://info.techup.live/admin-instructions/tooling-and-software/render) **with a purchased domain name and CDN using** [**Cloudflare**](../in-course-tooling/cloudflare.md)**.** In other words, your web app cannot just be hosted on your local computer without being hosted on the Internet. Your web app should also be connected to **Google Analytics**.
 
 ### Objective <a href="#objective" id="objective"></a>
 

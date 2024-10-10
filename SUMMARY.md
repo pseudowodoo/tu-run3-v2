@@ -5,20 +5,25 @@
   * [❗ What You Need to Know](readme/what-you-need-to-know.md)
   * [✏️ Tech Up Calendar](readme/tech-up-calendar.md)
   * [Venues](readme/venues.md)
-  * [🖥️ Tooling and Software](readme/tooling-and-software/README.md)
-    * [❗ AOR  & Claims Instructions](readme/tooling-and-software/tooling-claims-instructions.md)
-    * [🖱️ Slack](readme/tooling-and-software/slack.md)
-    * [GitHub](readme/tooling-and-software/github.md)
-    * [Render](readme/tooling-and-software/render.md)
-    * [Cloudflare](readme/tooling-and-software/cloudflare.md)
-    * [Google Analytics](readme/tooling-and-software/google-analytics.md)
   * [✏️ Frequently Asked Questions](readme/frequently-asked-questions.md)
   * [💌 Contact Persons](readme/contact-persons.md)
 
 ## 📖 Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
 
+* [🖥️ Pre-Course Tooling](pre-work/tooling-and-software/README.md)
+  * [❗ AOR  & Claims Instructions](pre-work/tooling-and-software/tooling-claims-instructions.md)
+  * [🖱️ Slack](pre-work/tooling-and-software/slack.md)
+  * [GitHub](pre-work/tooling-and-software/github.md)
+  * [Render](pre-work/tooling-and-software/render.md)
 * [👾 Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
 * [🌎 Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
+
+***
+
+* [IN-COURSE TOOLING](in-course-tooling/README.md)
+  * [❓ Sample Web App](in-course-tooling/sample-web-app.md)
+  * [Cloudflare](in-course-tooling/cloudflare.md)
+  * [Google Analytics](in-course-tooling/google-analytics.md)
 
 ## ✏️ Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
@@ -27,7 +32,6 @@
 * [✏️ By Day 1 or Module](week-1/by-day-1-or-module/README.md)
   * [✏️ If required](week-1/by-day-1-or-module/if-required.md)
 * [✏️ Programme Materials](week-1/programme-materials.md)
-* [❓ Sample Web App](week-1/sample-web-app.md)
 
 ## About TechUp
 

@@ -6,7 +6,7 @@
 Not sure what a web application is? Read about it [here](../resources/web-development-and-web-application.md).
 {% endhint %}
 
-* Source code can be found [here](../week-1/sample-web-app.md)
+* Source code can be found [here](../in-course-tooling/sample-web-app.md)
 *   Your sample web application should:
 
     a. Be successfully deployed using Render.com \

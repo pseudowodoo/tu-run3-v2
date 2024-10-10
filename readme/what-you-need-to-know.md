@@ -17,7 +17,7 @@ Please be sure to complete the Pre-Work before the start of the programme. Pleas
 
 ### Get on Slack
 
-Please refer to [Slack Guide](tooling-and-software/slack.md) to join our channels.
+Please refer to [Slack Guide](../pre-work/tooling-and-software/slack.md) to join our channels.
 
 ***
 
@@ -35,7 +35,7 @@ Please refer to [TechUp Calendar](tech-up-calendar.md) for the lesson plans for 
 
 ### Software and Tooling Requirements
 
-Please prepare and raise an AOR for your agency approval. Please read our [tooling guides](tooling-and-software/).
+Please prepare and raise an AOR for your agency approval. Please read our [tooling guides](../pre-work/tooling-and-software/).
 
 ***
 

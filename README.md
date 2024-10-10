@@ -43,7 +43,7 @@ Please visit [Venues ](readme/venues.md)page for more information
 
 The primary communication channel for TechUp is via Slack and this website. Important announcements can be found on on this page or on the [announcements ](readme/announcements.md)page.
 
-**Get Started with Slack:** Please follow the [Slack setup guide](readme/tooling-and-software/slack.md).
+**Get Started with Slack:** Please follow the [Slack setup guide](pre-work/tooling-and-software/slack.md).
 
 **Other Queries:** [Contact us](readme/contact-persons.md) or read the [FAQs](readme/frequently-asked-questions.md) for help
 
