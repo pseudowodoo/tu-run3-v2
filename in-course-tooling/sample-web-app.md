@@ -1,4 +1,4 @@
-# ❓ Sample Web App
+# 📲 Sample Web App
 
 {% hint style="info" %}
 **In this exercise, we will teach you how to:**

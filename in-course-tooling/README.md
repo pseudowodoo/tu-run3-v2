@@ -4,7 +4,7 @@ description: >-
   downloaded after the course commences.
 ---
 
-# IN-COURSE TOOLING
+# 🛠️ IN-COURSE TOOLING
 
 During the course, you are expected to use more tools to effectively participate in the TechUp Programme's learning activities. As these tools involve certain complexity, you are **not** encouraged to create an account into these tools in advance. Your instructor will work with you in getting onboard these tools during the programme (between weeks 2-3).&#x20;
 

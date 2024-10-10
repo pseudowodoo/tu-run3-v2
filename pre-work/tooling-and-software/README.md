@@ -1,10 +1,12 @@
 ---
 description: >-
-  Before you embark on the TechUp journey, you will need to prepare the use of
-  several tools that will allow you to participate in the programme.
+  Tooling that you should have prepared prior to class, or within the first 20
+  days of class.
 ---
 
 # 🖥️ Pre-Course Tooling
+
+Before you embark on the TechUp journey, you will need to prepare the use of several tools that will allow you to participate in the programme. Please read through this section and ensure that you have the following prepared before commencing the programme.&#x20;
 
 ### AOR and Claims
 
@@ -23,10 +25,6 @@ You will be using these tools to create a web app. Please register accounts for:
 3. [**Render**](https://dashboard.render.com/register) (Note: Use the create using GitHub option)\
    You will be using Render as hosting to deploy your web app into cyberspace! Please read the [Render guide](render.md) for step by step instructions on how to setup and deploy a web app.\
 
-4. [**Cloudflare**](https://dash.cloudflare.com/sign-up)\
-   Cloudflare will be where you purchase a domain name and configure DNS settings. Please read the [Cloudflare Guide](../../in-course-tooling/cloudflare.md) for step by step instructions on domain purchasing.\
-
-5.
 
 #### Additional notes <a href="#additional-notes" id="additional-notes"></a>
 

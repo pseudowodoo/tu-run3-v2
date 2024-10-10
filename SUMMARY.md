@@ -21,8 +21,8 @@
 
 ***
 
-* [IN-COURSE TOOLING](in-course-tooling/README.md)
-  * [❓ Sample Web App](in-course-tooling/sample-web-app.md)
+* [🛠️ IN-COURSE TOOLING](in-course-tooling/README.md)
+  * [📲 Sample Web App](in-course-tooling/sample-web-app.md)
   * [Cloudflare](in-course-tooling/cloudflare.md)
   * [Google Analytics](in-course-tooling/google-analytics.md)
 
