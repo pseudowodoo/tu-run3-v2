@@ -3,7 +3,7 @@
 1. Build and deploy a sample web application together with instructors.
 
 {% hint style="info" %}
-Not sure what a web application is? Read about it [here](../resources/web-development-and-web-application.md).
+Not sure what a web application is? Read about it [here](../supplementary-resources/web-development-and-web-application.md).
 {% endhint %}
 
 * Source code can be found [here](../in-course-tooling/sample-web-app.md)

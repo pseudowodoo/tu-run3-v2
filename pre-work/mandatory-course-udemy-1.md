@@ -1,4 +1,8 @@
-# 👾 Mandatory Course (Udemy)
+---
+hidden: true
+---
+
+# 👾 \[Superseded] Mandatory Course (Udemy)
 
 [The Complete 2024 Web Development Bootcamp](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#notes) (accessible on Udemy via LEARN app)
 
@@ -29,6 +33,7 @@ Those indicated in❗️**bold are mandatory for TechUp**.
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------- |
 | ❗️**Introduction to CSS**                                                                                                                                                                | [Udemy Section 5](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350296#overview)  | 6             | 59 min                       |
 | ❗️**Intermediate to CSS**                                                                                                                                                                | [Udemy Section 7](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350528#overview)  | 5             | 1 hr 33 min                  |
+| <p>Bootstrap</p><p>Helps you with nice default HTML elements like buttons and nav bar</p>                                                                                                | [Udemy Section 11](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37368626#notes)    | 4             | 1 hr 40 min                  |
 | <p>Capstone Project 2 - Personal site</p><p>By the end of the course, if you have done the capstone projects, you will have a personal repository of projects to showcase on GitHub.</p> | [Udemy Section 13](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37331054#overview) | 1             | Around 1 hour for assignment |
 {% endtab %}
 
@@ -52,13 +57,7 @@ Those indicated in❗️**bold are mandatory for TechUp**.
 {% endtab %}
 {% endtabs %}
 
-
-
-### OPTIONAL COURSES
-
-For those who wish to challenge themselves further, here are courses around backend development that would provide you with the skills necessary to create a backend for your web app. Note that backend development is **not** a mandatory requirement for your web application project.&#x20;
-
-
+We highly recommend completing the additional courses below to have an understanding on full stack web development.
 
 {% tabs %}
 {% tab title="Backend" %}

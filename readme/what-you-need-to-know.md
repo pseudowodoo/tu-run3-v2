@@ -5,7 +5,7 @@
 Please be sure to complete the Pre-Work before the start of the programme. Please make sure you have access to LEARN app to access the programme materials.
 
 * [Web Development Course on Udemy (via LEARN)](../pre-work/mandatory-course-udemy.md)
-* [How the Internet Works](../resources/how-does-the-internet-work.md)
+* [How the Internet Works](../supplementary-resources/how-does-the-internet-work.md)
 
 ***
 

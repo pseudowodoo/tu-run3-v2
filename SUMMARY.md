@@ -16,6 +16,7 @@
   * [GitHub](pre-work/tooling-and-software/github.md)
   * [Render](pre-work/tooling-and-software/render.md)
 * [👾 Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
+* [👾 \[Superseded\] Mandatory Course (Udemy)](pre-work/mandatory-course-udemy-1.md)
 * [🌎 Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 
 ***
@@ -52,16 +53,16 @@
 
 ***
 
-* [🔤 Resources](resources/README.md)
-  * [Web Development & Web Application](resources/web-development-and-web-application.md)
-  * [How does the Internet work?](resources/how-does-the-internet-work.md)
-  * [Design Thinking / User Experience (UX)](resources/design-thinking-user-experience-ux.md)
-  * [Product Management](resources/product-management.md)
-  * [Data Science & Machine Learning](resources/data-science-and-machine-learning.md)
-  * [Other Resources](resources/other-resources/README.md)
-    * [Practice](resources/other-resources/practice.md)
-    * [Project Ideas](resources/other-resources/project-ideas.md)
-    * [Glossary](resources/other-resources/glossary.md)
+* [🔤 Supplementary Resources](supplementary-resources/README.md)
+  * [Web Development & Web Application](supplementary-resources/web-development-and-web-application.md)
+  * [How does the Internet work?](supplementary-resources/how-does-the-internet-work.md)
+  * [Design Thinking / User Experience (UX)](supplementary-resources/design-thinking-user-experience-ux.md)
+  * [Product Management](supplementary-resources/product-management.md)
+  * [Data Science & Machine Learning](supplementary-resources/data-science-and-machine-learning.md)
+  * [Other Resources](supplementary-resources/other-resources/README.md)
+    * [Practice](supplementary-resources/other-resources/practice.md)
+    * [Project Ideas](supplementary-resources/other-resources/project-ideas.md)
+    * [Glossary](supplementary-resources/other-resources/glossary.md)
 
 ## Web App Presentations
 
