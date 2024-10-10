@@ -10,8 +10,9 @@ description: 'Note: image / profile / email ? for facilitators <Yanting + Michel
 
 * Main Facilitator: Patrick Pang
 * Programme Coordinator: Jeanette Tan
-* Curriculum: Chee Leong Loh
-* Ops: Jeanette Tan, Tong Yanting, Michelle Teo
+* Curriculum: Chee Leong Loh, Viola, Sahas
+* Learner Experience:  Jeanette Tan, Tong Yanting, Michelle Teo&#x20;
+* Ops: Eugene, Deric , Jameela, Troy, Sandy&#x20;
 
 </details>
 
