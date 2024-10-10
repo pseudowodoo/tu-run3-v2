@@ -2,8 +2,15 @@
 
 ### Attendance <a href="#attendance" id="attendance"></a>
 
-* **I cannot attend the programme on some days. What should I do?** Get approval in writing from your Director and inform the TechUp organising team.
-* **I have urgent work I need to clear during the programme.** Please write to DS and your Director, and copy HCD, Ruimin and Yunxi. If you appear to be doing work during the programme without prior clearance/approval, DS and your Director will be notified.
+* **I cannot attend the programme on some days. What should I do?** \
+  \
+  For days you must be excused on (in part or in full due to valid reasons) , please get your RO’s approval in writing, including your reason for absence. Please also copy your agency POC / HR, TechUp Main Facilitator from GovTech \[Patrick Pang ([patrick\_pang@tech.gov.sg](mailto:patrick\_pang@tech.gov.sg))] and TechUp team members from GovTech \[Jeanette Tan ([jeanette\_tan@tech.gov.sg](mailto:jeanette\_tan@tech.gov.sg))] and Yanting Tong ([Tong\_Yanting@tech.gov.sg](mailto:Tong\_Yanting@tech.gov.sg)).\
+
+* **I have urgent work I need to clear during the programme.** \
+  \
+  For days you must be excused on (in part or in full due to valid reasons), please get your RO’s approval in writing, including your reason for absence. Please also copy your agency POC / HR, TechUp Main Facilitator from GovTech \[Patrick Pang ([patrick\_pang@tech.gov.sg](mailto:patrick\_pang@tech.gov.sg))] and TechUp team members from GovTech \[Jeanette Tan ([jeanette\_tan@tech.gov.sg](mailto:jeanette\_tan@tech.gov.sg))] and Yanting Tong ([Tong\_Yanting@tech.gov.sg](mailto:Tong\_Yanting@tech.gov.sg)). \
+  \
+  If you appear to be doing work during the programme without prior clearance/approval, Patrick Pang, your Reporting Officer, and your HR POC will be notified.​
 
 ### Others <a href="#others" id="others"></a>
 
@@ -19,10 +26,10 @@
     There are plenty of problems to solve! 🙂 Just look around and see what is bothering you or someone around you in your daily lives. A simple guide to start crafting a problem statement can be found [here](https://www.build.gov.sg/problem-statement-guide/).
 *   **Can I change my problem statement halfway?**
 
-    Yes, as long as you are able to build your solution in time for the web app presentation on 27 and 28 May.
+    Yes, as long as you are able to build your solution in time for the web app presentation on 19 and 20 Nov 2024.
 *   **Does my web app need to solve a problem? What kind of problem?**
 
-    Yes, the deliverable for TechUp is to build your own web app that solves a problem of your choice. The web app you build should meet the requirements below:
+    Yes, the deliverable for TechUp is to build your own web app (frontend)  that solves a problem of your choice. The web app you build should meet the requirements below:
 
 {% hint style="success" %}
 1. Articulate a user problem
