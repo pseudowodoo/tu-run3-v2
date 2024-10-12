@@ -9,12 +9,6 @@ Please be sure to complete the Pre-Work before the start of the programme. Pleas
 
 ***
 
-### Think of a Problem Statement
-
-\{{For input \}}
-
-***
-
 ### Get on Slack
 
 Please refer to [Slack Guide](../pre-work/tooling-and-software/slack.md) to join our channels.
