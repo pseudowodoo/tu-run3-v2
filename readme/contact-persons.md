@@ -16,4 +16,4 @@ Please contact us on Slack channel **#techup-webapp-help** for any technical iss
 
 ### Immediate feedback and other matters
 
-We aim to provide you with a seamless learning experience and a conducive learning environment. For any feedback or assistance please contact Yanting or Jeanette.&#x20;
+We aim to provide you with a seamless learning experience and a conducive learning environment. For any feedback or assistance please contact [Yanting](mailto:Tong\_Yanting@tech.gov.sg) or [Jeanette](mailto:Jeanette\_Tan@tech.gov.sg).&#x20;
