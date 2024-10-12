@@ -99,6 +99,11 @@ Self Paced Learning  - Office Hours / Project Work&#x20;
 
 {% tabs %}
 {% tab title="Mon 18 Nov" %}
+**No in-person sessions** \
+Self Paced Learning  - Office Hours / Project Work&#x20;
+{% endtab %}
+
+{% tab title="Tue 19 Nov" %}
 ### Web App Presentation (Day 1)
 
 Venue: MDDI Rooms (to be confirmed)
@@ -108,26 +113,29 @@ Venue: MDDI Rooms (to be confirmed)
 
 {% endtab %}
 
-{% tab title="Tue 19 Nov" %}
-
-{% endtab %}
-
 {% tab title="Wed 20 Nov" %}
+### Web App Presentation (Day 2)
 
+Venue: MDDI Rooms (to be confirmed)
+
+<table><thead><tr><th width="199">Time</th><th>Programme</th></tr></thead><tbody><tr><td>09:30 - 12:00pm</td><td><p>Web App Presentation (WAP)</p><p><em>Assigned Groups</em></p></td></tr><tr><td>12.00 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2.00 - 5.30pm</td><td><p>Web App Presentation (WAP)</p><p><em>Assigned Groups</em></p></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Thu 21 Nov" %}
-
+**No in-person sessions** \
+Self Paced Learning  - Office Hours / Project Work&#x20;
 {% endtab %}
 
 {% tab title="Fri 22 Nov" %}
-### Web App Presentation
+### Demo Day
 
+Venue: MDDI Atrium
 
-
-<table><thead><tr><th width="158">Time</th><th>Programme</th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="207">Time</th><th>Programme</th></tr></thead><tbody><tr><td>11.30 - 12.30pm</td><td>Reflection of Learning Journey</td></tr><tr><td>12.30 – 1.30pm</td><td>Lunch Break</td></tr><tr><td>1.30 - 3.00pm</td><td><p>Demo Day</p><p><em>Set Up Booths / Presentation</em></p></td></tr><tr><td>3.00 - 3.30pm</td><td>Tea Break</td></tr><tr><td>3.30 - 4.30pm</td><td><p>Demo Day</p><p><em>Prize-Giving / Closing Speech / Photo-Taking</em></p></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
