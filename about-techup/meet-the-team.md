@@ -1,7 +1,3 @@
----
-description: 'Note: image / profile / email ? for facilitators <Yanting + Michelle>'
----
-
 # ✏️ Meet the Team!
 
 <details>

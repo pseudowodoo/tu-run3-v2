@@ -52,19 +52,6 @@
 * [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
 
-***
-
-* [🔤 Supplementary Resources](supplementary-resources/README.md)
-  * [Web Development & Web Application](supplementary-resources/web-development-and-web-application.md)
-  * [How does the Internet work?](supplementary-resources/how-does-the-internet-work.md)
-  * [Design Thinking / User Experience (UX)](supplementary-resources/design-thinking-user-experience-ux.md)
-  * [Product Management](supplementary-resources/product-management.md)
-  * [Data Science & Machine Learning](supplementary-resources/data-science-and-machine-learning.md)
-  * [Other Resources](supplementary-resources/other-resources/README.md)
-    * [Practice](supplementary-resources/other-resources/practice.md)
-    * [Project Ideas](supplementary-resources/other-resources/project-ideas.md)
-    * [Glossary](supplementary-resources/other-resources/glossary.md)
-
 ## Web App Presentations
 
 * [❓ Submit your problem statement here](https://docs.google.com/spreadsheets/d/1FRkX2AyFfJtEdNcY8f8kayyaeUpPkqw-wnlPg15ay-8/edit?gid=0#gid=0)
@@ -86,6 +73,16 @@
 ***
 
 * [🇸🇬 About the Organisers](about-the-organisers.md)
+* [🔤 Supplementary Resources](supplementary-resources/README.md)
+  * [Web Development & Web Application](supplementary-resources/web-development-and-web-application.md)
+  * [How does the Internet work?](supplementary-resources/how-does-the-internet-work.md)
+  * [Design Thinking / User Experience (UX)](supplementary-resources/design-thinking-user-experience-ux.md)
+  * [Product Management](supplementary-resources/product-management.md)
+  * [Data Science & Machine Learning](supplementary-resources/data-science-and-machine-learning.md)
+  * [Other Resources](supplementary-resources/other-resources/README.md)
+    * [Practice](supplementary-resources/other-resources/practice.md)
+    * [Project Ideas](supplementary-resources/other-resources/project-ideas.md)
+    * [Glossary](supplementary-resources/other-resources/glossary.md)
 
 ## Hidden Group Example
 
