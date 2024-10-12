@@ -2,92 +2,63 @@
 
 ### Week 1 (28 Oct - 1 Nov)
 
-
-
 {% tabs %}
-{% tab title="Day 1  (Mon 28 Oct)" %}
-### Opening day & problem statement/design workshops <a href="#opening-day-and-problem-statement-design-workshops" id="opening-day-and-problem-statement-design-workshops"></a>
-
+{% tab title="Mon 28 Oct" %}
 Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17) (see [Venues](venues.md) for access instructions)
 
 <table data-header-hidden><thead><tr><th width="216">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:00 – 9:45am</td><td>Keynote Opening by PS <br><em>PS Joseph Leong</em></td></tr><tr><td>9:45 – 10:15am</td><td><p>Course Introduction &#x26; Admin Briefing</p><p><em>Digital Academy</em></p></td></tr><tr><td>10.15 – 10.30am</td><td>Break (15 mins) </td></tr><tr><td>10:30am – 12:00pm</td><td><p>How the Internet Works</p><p><em>Sng Swee Keat, Principal Software Engineer</em></p></td></tr><tr><td>12.00 – 1.30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:15pm</td><td><p>Experimental Mindsets and Problem Statements</p><p><em>Lim Eyung, Gov Digital Products</em></p></td></tr><tr><td>3:15 – 3:30pm</td><td>Break (15 mins) </td></tr><tr><td>3:30 – 4:45pm</td><td><p>Overview to Web App Development and Tooling Setup</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>4:45 – 5:00pm</td><td>End of Day Debrief</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Day 2  (Tue 29 Oct)" %}
-### How to design your prototype and conduct user interviews & web dev bootcamp <a href="#how-to-design-your-prototype-and-conduct-user-interviews-and-web-dev-bootcamp" id="how-to-design-your-prototype-and-conduct-user-interviews-and-web-dev-bootcamp"></a>
-
+{% tab title="Tue 29 Oct" %}
 Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17) (see [Venues ](venues.md)for access instructions)
 
-<table><thead><tr><th width="208">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30 – 10:30am</td><td><p>What is Good Design</p><p>Fala Sharil, Lead UX Designer</p></td></tr><tr><td>10.30 – 10.45am</td><td>Break (15 mins) </td></tr><tr><td>10:45 – 12:00pm</td><td><p>How to Design Prototypes</p><p>Fala Sharil, Lead UX Designer</p></td></tr><tr><td>12:00 – 1:30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:15pm</td><td><p>Web App Development: HTML &#x26; CSS</p><p>Winston Teo, Head of Engineering Practice</p></td></tr><tr><td>3:15 – 3:30pm</td><td>Break (15 mins) </td></tr><tr><td>3:30 – 4:45pm</td><td><p>Web App Development: HTML &#x26; CSS (cont’d)</p><p>Winston Teo, Head of Engineering Practice</p></td></tr><tr><td>4:45 – 5:00pm</td><td>End of Day Debrief</td></tr></tbody></table>
+<table><thead><tr><th width="208">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30 – 10:30am</td><td><p>What is Good Design</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>10.30 – 10.45am</td><td>Break (15 mins) </td></tr><tr><td>10:45 – 12:00pm</td><td><p>How to Design Prototypes</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>12:00 – 1:30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:15pm</td><td><p>Web App Development: HTML &#x26; CSS</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>3:15 – 3:30pm</td><td>Break (15 mins) </td></tr><tr><td>3:30 – 4:45pm</td><td><p>Web App Development: HTML &#x26; CSS (cont’d)</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>4:45 – 5:00pm</td><td>End of Day Debrief</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Day 3 (Wed 30 Oct)" %}
-### Product Up, web dev overview, Git/GitHub & tooling demo <a href="#product-up-web-dev-overview-git-github-and-tooling-demo" id="product-up-web-dev-overview-git-github-and-tooling-demo"></a>
-
+{% tab title="Wed 30 Oct" %}
 Venue: JEM Office Tower Auditorium (Lv. 6)
 
-<table><thead><tr><th width="195">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9.30am - 1.00pm</td><td>ProductUp ⬆️</td></tr><tr><td>1.00pm - 2.30pm</td><td>Lunch 🍔</td></tr><tr><td>2.30pm - 3.00pm</td><td>Overview of Web development and tech stacks 👨🏾‍🏫</td></tr><tr><td>3.00pm - 3.15pm</td><td>Overview of Git repositories, Github, Github Codespaces 👨🏾‍🏫</td></tr><tr><td>3.15pm - 5.00pm</td><td><p>Hands-on: Setting up your tooling 📝 <em>(optional)</em></p><ul><li>Development environment (GitHub Codespaces)</li><li>Hosting platform (Render)</li><li>Porting in pre-written code to Github codespaces &#x26; deploy app on Render</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="195">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:00 – 11:00am</td><td><p>How to Design Prototypes (cont’d)</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>11:00 – 11:15am</td><td>Break (15 mins) </td></tr><tr><td>11:15 – 12:30pm</td><td><p>How to Test Prototypes</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>12:30 – 1:30pm</td><td>Lunch Break</td></tr><tr><td>3.1:30 – 3:15pm</td><td><p>How to Test Prototypes (cont’d)</p><p><em>Fala Sharil, Lead UX Designer</em></p><p></p></td></tr><tr><td>3:15 – 3:30pm</td><td>Break (15 mins) </td></tr><tr><td>3:30 – 4:30pm</td><td><p>Mobile vs Web Apps</p><p><em>Stephanie Siow, DD, MDDI</em></p></td></tr><tr><td>4:30 – 4:45pm</td><td>End of Day Debrief</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Day 4 (Thu 31 Oct)" %}
-### Online web dev bootcamp, HTML & fireside chat <a href="#online-web-dev-bootcamp-html-and-fireside-chat" id="online-web-dev-bootcamp-html-and-fireside-chat"></a>
-
-Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
-
-<table><thead><tr><th width="183">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10am - 1.15pm</td><td>Study Party 🎉 <em>(optional)</em> Continue your <a href="../pre-work/mandatory-course-udemy.md">Mandatory Course</a> on frontend and HTML 📚</td></tr><tr><td>11am - 12pm</td><td>Mobile vs web apps <em>(optional)</em></td></tr><tr><td>12pm - 1.15pm</td><td>Office Hours <em>(optional)</em></td></tr><tr><td>1.15pm - 2.30pm</td><td>Lunch 🍔</td></tr><tr><td>2.30pm - 3.00pm</td><td>Overview of HTML 👨🏾‍🏫</td></tr><tr><td>3.00pm - 3.30pm</td><td>Hands-on activity: HTML 📝</td></tr><tr><td>3.30pm - 4.00pm</td><td>Office Hours / Coffee Break</td></tr><tr><td>4.00pm - 5.00pm</td><td>Fireside chat with PS (MCI) &#x26; DS (Smart Nation) 🔥</td></tr></tbody></table>
+{% tab title="Thu 31 Oct" %}
+**Deepavali Holiday**
 {% endtab %}
 
-{% tab title="Day 5 (Fri 1 Nov)" %}
-### CSS & product workshop <a href="#css-and-product-workshop" id="css-and-product-workshop"></a>
-
-Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
-
-<table><thead><tr><th width="240">Time</th><th>Programme</th></tr></thead><tbody><tr><td>11.00am - 12.00pm</td><td>Overview of CSS 👨🏾‍🏫</td></tr><tr><td>12.00pm - 1.00pm</td><td>Hands-on activity: CSS 📝</td></tr><tr><td>1.00pm - 2.00pm</td><td>Lunch 🍔</td></tr><tr><td>2.00pm - 4.00pm</td><td>Workshop: How to write good problem statements in the government? 📝</td></tr><tr><td>4.00pm - 6.00pm</td><td>Design + Engineering + Product Office hours <em>(optional)</em> 💬 Or continue with your <a href="../pre-work/mandatory-course-udemy.md">Mandatory Course </a>on CSS 📚</td></tr></tbody></table>
+{% tab title="Fri 1 Nov" %}
+**No in-person sessions** \
+Self Paced Learning  - Office Hours / Project Work&#x20;
 {% endtab %}
 {% endtabs %}
 
 ### Week 2
 
 {% tabs %}
-{% tab title="Mon 13 May" %}
-### Prototype design, product metrics & web dev bootcamp <a href="#prototype-design-product-metrics-and-web-dev-bootcamp" id="prototype-design-product-metrics-and-web-dev-bootcamp"></a>
+{% tab title="Mon 4 Nov" %}
+Venue: JEM Office Tower Auditorium (Lv. 6)
 
-Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
-
-<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10.00am - 12.00pm</td><td>Workshop: How to test your prototype (Part II) 📝</td></tr><tr><td>12.00pm - 1.30pm</td><td>Lunch <a href="https://emojipedia.org/food-drink">🍔</a></td></tr><tr><td>1.30pm - 2.30pm</td><td>Product Metrics Case Studies 🗣️</td></tr><tr><td>2.30pm onwards</td><td>Continue your <a href="../pre-work/mandatory-course-udemy.md">Mandatory Course</a> on CSS 📚</td></tr></tbody></table>
+<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:00 – 11:30am</td><td><p>How to Build an 11-star Product</p><p><em>Kaiwei Chen, Head of Product Practice</em></p></td></tr><tr><td>11.30 – 11.45</td><td>Break (15 mins) </td></tr><tr><td>11:45 – 12:45</td><td><p>TechUp Programme Quiz</p><p><em>Digital Academy</em></p></td></tr><tr><td>12.45 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2:00 – 3:00pm</td><td>Self-Paced Project Work</td></tr><tr><td>3:00 – 4:00pm</td><td><p>Fireside Chat with MDDI Leaders</p><p><em>PS Joseph Leong</em></p></td></tr><tr><td>4:00 – 5:00pm</td><td>Happy Hour</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Tue 14 May" %}
-### Javascript, Internet quiz & online web dev bootcamp <a href="#javascript-internet-quiz-and-online-web-dev-bootcamp" id="javascript-internet-quiz-and-online-web-dev-bootcamp"></a>
-
+{% tab title="Tue 5 Nov" %}
 Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
 
 <table><thead><tr><th width="209">Time</th><th>Programme</th></tr></thead><tbody><tr><td><strong>11am-11.45am</strong></td><td>Overview of Javascript 👨🏾‍🏫</td></tr><tr><td>11.45am-12.45pm</td><td>Hands-on activity: Javascript 📝</td></tr><tr><td>12.45pm-1pm</td><td>Quiz on How the Internet Works 📝 Note: 70% score required to pass TechUp</td></tr><tr><td>12.30pm - 6.00pm</td><td>Continue your <a href="../pre-work/mandatory-course-udemy.md">Mandatory Course</a> on CSS and Javascript</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Web 15 May" %}
-### Web dev bootcamp <a href="#web-dev-bootcamp" id="web-dev-bootcamp"></a>
-
-Virtual day, with optional office hours at OGP's Pantry at Lazada One building (51 Bras Basah Road) (See [Venues](https://info.techup.live/admin-instructions/venues) for access instructions)
-
-| Time            | Programme                                                                                |
-| --------------- | ---------------------------------------------------------------------------------------- |
-| 2.00pm - 5.00pm | Design + Engineering Office hours at OGP's pantry _(optional)_ 💬                        |
-| FULL DAY        | Continue your [Mandatory Course](../pre-work/mandatory-course-udemy.md) on Javascript 📚 |
+{% tab title="Web 6 Nov" %}
+**No in-person sessions** \
+Self Paced Learning  - Office Hours / Project Work&#x20;
 {% endtab %}
 
-{% tab title="Thu 16 May" %}
-### Web dev bootcamp <a href="#web-dev-bootcamp-1" id="web-dev-bootcamp-1"></a>
-
-No in-person sessions today; continue your [Mandatory Course](../pre-work/mandatory-course-udemy.md) on Javascript and the DOM. 📚
+{% tab title="Thu 7 Nov" %}
+**No in-person sessions**\
+Self Paced Learning  - Office Hours / Project Work&#x20;
 {% endtab %}
 
-{% tab title="Fri 17 May" %}
-### Backend/databases (optional), rapid prototyping and online web dev bootcamp <a href="#backend-databases-optional-rapid-prototyping-and-online-web-dev-bootcamp" id="backend-databases-optional-rapid-prototyping-and-online-web-dev-bootcamp"></a>
-
-Venue: MBC Block 30 Level 11 Jupiter Rooms 1 and 2
-
-<table><thead><tr><th width="186">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10.15am - 11.15am</td><td>Overview of backend and databases <em>(optional)</em> 👨🏾‍🏫</td></tr><tr><td>11.15am - 12.00pm</td><td>Hands-on activity: Databases <em>(optional)</em> 📝</td></tr><tr><td>12.00pm - 1.30pm</td><td>Lunch<a href="https://emojipedia.org/food-drink">🍔</a></td></tr><tr><td>1.30pm - 2.30pm</td><td>Session on (a) delivering digital services better and (b) rapid prototyping using OGP products 📝</td></tr><tr><td>2.30pm - 3.30pm</td><td>Databases &#x26; Complexity (optional) <code>NEW</code></td></tr><tr><td>3.30pm - 4.30pm</td><td>Security chaos engineering <em>(optional)</em> <code>NEW</code></td></tr><tr><td>2.30pm - 6.00pm</td><td>Continue your <a href="../pre-work/mandatory-course-udemy.md">Mandatory Course </a>on DOM and Git/GitHub 📚</td></tr><tr><td>2.30pm - 4.30pm</td><td>Engineering office hours at MBC - GovTech pantry <em>(optional)</em> 💬</td></tr></tbody></table>
+{% tab title="Fri 8 Nov" %}
+**No in-person sessions** \
+Self Paced Learning  - Office Hours / Project Work&#x20;
 {% endtab %}
 {% endtabs %}
 
