@@ -1,4 +1,4 @@
-# ✏️ Tech Up Calendar
+# 🗓️ Tech Up Calendar
 
 ### Week 1&#x20;
 

@@ -3,7 +3,7 @@
 * [👋 Welcome!](README.md)
   * [ℹ️ Announcements](readme/announcements.md)
   * [❗ What You Need to Know](readme/what-you-need-to-know.md)
-  * [✏️ Tech Up Calendar](readme/tech-up-calendar.md)
+  * [🗓️ Tech Up Calendar](readme/tech-up-calendar.md)
   * [Venues](readme/venues.md)
   * [📖 Frequently Asked Questions](readme/frequently-asked-questions.md)
   * [✏️ Backup of Frequently Asked Questions](readme/frequently-asked-questions-1.md)
