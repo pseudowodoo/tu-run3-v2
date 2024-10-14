@@ -28,7 +28,8 @@ You may refer to the [TechUp calendar ](tech-up-calendar.md)during the programme
 
 **Access**
 
-Please register at the ground floor and&#x20;
+Entrance to MND Office towers are on the ground floor (outside the mall, facing the road).\
+Please register at the ground floor to receive an access card from the registration booth. Proceed to 17th or 6th floor for in-person sessions. Should you need to leave the building, please drop your card into the electronic gantry slot to exit. Access card is required should you need to re-enter the building.&#x20;
 
 **Public Transport**
 
