@@ -1,4 +1,4 @@
-# ❗ What You Need to Know
+# ❓ What You Need to Know
 
 ### Before the Programme
 
@@ -42,24 +42,6 @@ To complete the hands-on portion of the programme, you are required to be equipp
 ### Dress Code
 
 Please feel free to put on casual clothes as long as your outfit it does not create any distress, alarm or discomfort to other participants.
-
-***
-
-### Collection of Access Cards
-
-\{{ Coming Soon \}}
-
-***
-
-### Collection of Tees and Lanyard
-
-\{{ Coming Soon \}}
-
-***
-
-### How to connect to WIFI?
-
-\{{Coming Soon\}}
 
 ***
 
