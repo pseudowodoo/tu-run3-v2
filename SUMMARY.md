@@ -12,7 +12,7 @@
 ## 📖 Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
 
 * [🖥️ Pre-Course Tooling](pre-work/tooling-and-software/README.md)
-  * [❗ AOR  & Claims Instructions](pre-work/tooling-and-software/tooling-claims-instructions.md)
+  * [📨 AOR  & Claims Instructions](pre-work/tooling-and-software/tooling-claims-instructions.md)
   * [🖱️ Slack](pre-work/tooling-and-software/slack.md)
   * [GitHub](pre-work/tooling-and-software/github.md)
   * [Render](pre-work/tooling-and-software/render.md)

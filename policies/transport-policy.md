@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # ✏️ Transport Policy
 
 **MDDI Colleagues (SNDG and Non-SNDG Colleagues):** Participants attending TechUp will be eligible to claim reimbursement for transport but highly encouraged to travel by bus/MRT, and if travelling by taxi/private hire car, to carpool as much as possible. These are the guidelines: '**insert image'**

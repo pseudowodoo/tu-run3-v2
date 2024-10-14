@@ -1,4 +1,4 @@
-# ❗ AOR  & Claims Instructions
+# 📨 AOR  & Claims Instructions
 
 Each participant will be allocated a budget of SGD 100 on tooling required for TechUp (e.g. to purchase domain name, CDN).
 
