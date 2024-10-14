@@ -1,11 +1,11 @@
 # ✏️ Transport Policy
 
-**MDDI Colleagues (SNDG and Non-SNDG Colleagues):** Participants attending TechUp will be eligible to claim reimbursement for transport but highly encouraged to travel by bus/MRT, and if travelling by taxi/private hire car, to carpool as much as possible. These are the guidelines: '**insert image'**
+**MDDI Colleagues:** Participants attending TechUp will be eligible for transport reimbursement but highly encouraged to travel by bus/MRT, and if travelling by taxi/private hire car, to carpool as much as possible. 'Insert image from huey yan'
 
-**IMDA Colleagues:** Please refer to IMDA's prevailing transport policies.
+**GovTech Colleagues:** Participants may refer to GovTech's prevailing transport policies. Link as follows: [Local Transport Reimbursement (sharepoint.com)](https://gccprod.sharepoint.com/sites/GOVTECH-intranet/hr/SitePages/Local-Transport-Reimbursement.aspx?web=1). Please see guide on how to submit claims.&#x20;
 
-**NLB Colleagues:**  Participants are to refer to NLB’s Transport Policy for claimable and non-claimable journeys.
+**IMDA Colleagues:** Participants may refer to IMDA's prevailing transport policies.
 
-**CSA Colleagues:** Participants can follow the Civil Service Finance guidelines on transport policies. TechUp is considered as officers’ training.
+**NLB Colleagues:** Participants may refer to NLB’s Transport Policy for claimable and non-claimable journeys.
 
-**GovTech Colleagues:** Please refer to GovTech's prevailing transport policies.
+**CSA Colleagues:** Participants may follow the Civil Service Finance guidelines on transport policies. TechUp is considered as officers’ training.
