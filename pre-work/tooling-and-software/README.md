@@ -1,7 +1,5 @@
 ---
-description: >-
-  Tooling that you should have prepared prior to class, or within the first 20
-  days of class.
+description: Tooling that you should have prepared prior to class.
 ---
 
 # 🖥️ Pre-Course Tooling
@@ -23,8 +21,7 @@ You will be using these tools to create a web app. Please register accounts for:
    You will be using Github and Github Codespaces for storing and editing code. Please read the [Github setup guide](github.md) for step by step instructions.\
 
 3. [**Render**](https://dashboard.render.com/register) (Note: Use the create using GitHub option)\
-   You will be using Render as hosting to deploy your web app into cyberspace! Please read the [Render guide](render.md) for step by step instructions on how to setup and deploy a web app.\
-
+   You will be using Render as hosting to deploy your web app into cyberspace! Please read the [Render guide](render.md) for step by step instructions on how to setup and deploy a web app.
 
 #### Additional notes <a href="#additional-notes" id="additional-notes"></a>
 

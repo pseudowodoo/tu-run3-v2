@@ -11,48 +11,47 @@ Those indicated in❗️**bold are mandatory for TechUp**.
 {% endhint %}
 
 {% tabs %}
-{% tab title="Front End + HTML" %}
+{% tab title="A. By 28 Oct (Mon)" %}
+**1. Overview of Front End Web Development & Git/GitHub**
 
+<table><thead><tr><th width="183">Title</th><th>Udemy Link</th><th># of Lectures</th><th>Duration</th></tr></thead><tbody><tr><td>❗️<strong>Front End Web Development</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview">Udemy Section 1</a></td><td>9</td><td>37 min</td></tr><tr><td>❗️<strong>Git, GitHub and Version Control</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12386072#overview">Udemy Section 27</a></td><td>9</td><td>1 hr 17 min</td></tr></tbody></table>
 
-| Title                           | Udemy Link                                                                                                                 | # of Lectures | Duration    |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
-| ❗️**Front End Web Development** | [Udemy Section 1](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview) | 9             | 37 min      |
-| ❗️**Introduction to HTML**      | [Udemy Section 2](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37390282#overview) | 8             | 51 min      |
-| ❗️**Intermediate HTML**         | [Udemy Section 3](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349778#overview) | 7             | 51 min      |
-| ❗️**Multi-Page Websites**       | [Udemy Section 4](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349942#overview) | 7             | 1 hr 10 min |
+**2. HTML**
+
+| Title                      | Udemy Link                                                                                                                 | # of Lectures | Duration    |
+| -------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
+| ❗️**Introduction to HTML** | [Udemy Section 2](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37390282#overview) | 8             | 51 min      |
+| ❗️**Intermediate HTML**    | [Udemy Section 3](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349778#overview) | 7             | 51 min      |
+| Multi-Page Websites        | [Udemy Section 4](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349942#overview) | 7             | 1 hr 10 min |
+
+3. **CSS**
+
+| Title                     | Udemy Link                                                                                                                  | # of Lectures | Duration    |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
+| ❗️**Introduction to CSS** | [Udemy Section 5](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350296#overview)  | 6             | 59 min      |
+| ❗️**Intermediate to CSS** | [Udemy Section 7](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350528#overview)  | 5             | 1 hr 33 min |
+| Capstone Project 2        | [Udemy Section 13](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37331054#overview) | 1             | \~1 hr      |
 {% endtab %}
 
-{% tab title="CSS" %}
+{% tab title="B. By 4 Nov (Mon)" %}
+4. **Javascript**
 
-
-| Title                                                                                                                                                                                    | Udemy Link                                                                                                                  | # of Lectures | Duration                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------------------------- |
-| ❗️**Introduction to CSS**                                                                                                                                                                | [Udemy Section 5](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350296#overview)  | 6             | 59 min                       |
-| ❗️**Intermediate to CSS**                                                                                                                                                                | [Udemy Section 7](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350528#overview)  | 5             | 1 hr 33 min                  |
-| <p>Capstone Project 2 - Personal site</p><p>By the end of the course, if you have done the capstone projects, you will have a personal repository of projects to showcase on GitHub.</p> | [Udemy Section 13](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37331054#overview) | 1             | Around 1 hour for assignment |
+<table><thead><tr><th width="215">Title</th><th width="192">Udemy Link</th><th width="130"># of Lectures</th><th>Duration</th></tr></thead><tbody><tr><td>❗️<strong>Introduction to Javascript ES6</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12371320#overview">Udemy Section 14</a></td><td>28</td><td>2 hr 28 min</td></tr><tr><td>❗️<strong>Intermediate Javascript</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12373892#overview">Udemy Section 15</a></td><td>19</td><td>1 hr 30 min</td></tr><tr><td>The Document Object Model (DOM)</td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12374106#overview">Udemy Section 16</a></td><td>9</td><td>56 min</td></tr><tr><td>Boss Level Challenge 1 - The Dicee Game</td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12383900#overview">Udemy Section 17</a></td><td>11</td><td>~Est. 1-2hrs</td></tr><tr><td>❗️<strong>The Unix Command Line</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12371166#overview">Udemy Section 21</a></td><td>5</td><td>30 min</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Javascript, DOM" %}
-| Title                                   | Udemy Link                                                                                                                  | # of Lectures | Duration                          |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | --------------------------------- |
-| ❗️**Introduction to Javascript ES6**    | [Udemy Section 14](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12371320#overview) | 28            | 2 hr 28 min                       |
-| ❗️**Intermediate Javascript**           | [Udemy Section 15](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12373892#overview) | 19            | 1 hr 30 min                       |
-| ❗️**The Document Object Model (DOM)**   | [Udemy Section 16](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12374106#overview) | 9             | 56 min                            |
-| Boss Level Challenge 1 - The Dicee Game | [Udemy Section 17](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12383900#overview) | 11            | 20 min (1-2 hours for assignment) |
-| ❗️**The Unix Command Line**             | [Udemy Section 21](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12371166#overview) | 5             | 30 min                            |
-{% endtab %}
+{% tab title="C. By 11 Nov (Mon)" %}
+5. **Backend and Google Analytics**
 
-{% tab title="Git, GA" %}
-
-
-| Title                                     | Udemy Link                                                                                                                  | # of Lectures | Duration    |
-| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
-| ❗️**Git, GitHub and Version Control**     | [Udemy Section 27](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12386072#overview) | 9             | 1 hr 17 min |
-| ❗️**How to set up Google Analytics (GA)** | [YouTube tutorial](https://www.youtube.com/watch?v=f3X-hYRxBL8)                                                             | -             | 6 min       |
+| Title                                     | Udemy Link                                                                                                                  | # of Lectures | Duration |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | -------- |
+| ❗️**Backend Web Development**             | [Udemy Section 22](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12407820#overview) | 2             | 21 min   |
+| ❗️**How to set up Google Analytics (GA)** | [YouTube tutorial](https://www.youtube.com/watch?v=f3X-hYRxBL8)                                                             | -             | 6 min    |
 {% endtab %}
 {% endtabs %}
 
 
+
+***
 
 ### OPTIONAL COURSES
 
@@ -64,7 +63,6 @@ For those who wish to challenge themselves further, here are courses around back
 {% tab title="Backend" %}
 | Title                     | Udemy Link                                                                                                                  | # of Lectures | Duration    |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
-| Backend Web Development   | [Udemy Section 22](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12407820#overview) | 2             | 21 min      |
 | Node.js                   | [Udemy Section 23](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384268#overview) | 8             | 1 hr 6 min  |
 | Express.js with Node.js   | [Udemy Section 24](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384462#overview) | 8             | 2 hr 1 min  |
 | EJS (Embedded JavaScript) | [Udemy Section 25](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/38911782#overview) | 6             | 1 hr 30 min |

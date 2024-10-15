@@ -16,9 +16,9 @@
   * [🖱️ Slack](pre-work/tooling-and-software/slack.md)
   * [GitHub](pre-work/tooling-and-software/github.md)
   * [Render](pre-work/tooling-and-software/render.md)
+* [🌎 Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 * [👾 Mandatory Course (Udemy)](pre-work/mandatory-course-udemy.md)
 * [👾 \[Superseded\] Mandatory Course (Udemy)](pre-work/mandatory-course-udemy-1.md)
-* [🌎 Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 
 ***
 
