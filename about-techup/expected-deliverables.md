@@ -1,38 +1,39 @@
 # 📱 Expected Deliverables
 
-1. Build and deploy a sample web application together with instructors.
+Build your own web app that solves a problem of your choice. The web app you build should meet the requirements below. You are required to present your web app on either 19th or 20th November. More details will be shared with you soon.&#x20;
 
 {% hint style="info" %}
 Not sure what a web application is? Read about it [here](../supplementary-resources/web-development-and-web-application.md).
 {% endhint %}
 
-* Source code can be found [here](../in-course-tooling/sample-web-app.md)
-*   Your sample web application should:
+For you to pass the requirements, your web app will need to demonstrate the following:&#x20;
 
-    a. Be successfully deployed using Render.com \
-    b. Contain a blog post that describes your problem statement and solution (which will be your web app - see #2 below)
+**A. Technical Requirements:**&#x20;
 
-\[SAMPLE WEB APP LINK]
+1. Employ the use of **HTML and CSS** to structure and style the web app to generate an effective interface
+2. Employ the use of **Javascript** to allow for interactivity
+3. Ensure that the web app has been deployed to the Internet and hosted as a live website using **Render**.&#x20;
+4. Have a **custom domain name** and **CDN** purchased from **Cloudflare**
+5. Connected to **Google Analytics** so as to track key website data
 
-1. Build your own web app that solves a problem of your choice. The web app you build should meet the requirements below. You are required to present your web app on \[\[either 27 May or 28 May. More details will be updated [here](https://info.techup.live/web-app-presentations/presentation-schedule) soon.]]
+**B. Broader Requirements:**
 
-* Articulate a user problem
-* Use CSS to design and style page
-* Interactivity with Javascript
-* Intuitive UX flow
-* Reading and writing into a database (optional)
+1. You have formulated a clear **problem statement**, and that your web app is intended to address this problem.&#x20;
+2. You have **developed and tested your prototype** with users, to ascertain that your assumptions/ hypotheses are valid.&#x20;
+3. You have incorporated **UX Design principles and elements** to allow for an intuitive user experience for the intended users.&#x20;
 
-{% hint style="info" %}
-Web app MUST be deployed to the Internet and hosted as a live website using Render, with a custom domain name and CDN purchased from Cloudflare and connected to Google Analytics.
-{% endhint %}
+You will be guided on how to meet the above requirements across the TechUp Programme.&#x20;
+
+
 
 ***
 
 ### For Advanced Participants <a href="#for-advanced-participants" id="for-advanced-participants"></a>
 
-Advanced participants can challenge yourself to do one or more of the following:
+If you possess basic background in technology, or find the above too easy, you are encouraged to challenge yourself to do more with your web app! Examples of ways to challenge yourself further are as follows:&#x20;
 
-1. Automated monitoring for their web app (e.g. using Datadog or Uptime Robot)
-2. Implement Continuous Integration and Development (CI/CD) - write test cases that run automatically each time their app gets deployed, to help them catch errors
-3. Use an automated security testing tool to prove that their web apps are secure
-4. Web app can address a real existing problem statement contributed by other public service agencies
+1. Creating a backend for the web app, that would allow it to do API calls or database management.&#x20;
+2. Automated monitoring for their web app (e.g. using Datadog or Uptime Robot)
+3. Implement Continuous Integration and Development (CI/CD) - write test cases that run automatically each time their app gets deployed, to help them catch errors
+4. Use an automated security testing tool to prove that their web apps are secure
+5. Web app can address a real existing problem statement contributed by other public service agencies
