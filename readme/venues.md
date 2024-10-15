@@ -35,6 +35,7 @@ Please register at the ground floor to receive an access card from the registrat
 
 Nearest MRT station: Jurong East\
 By Car: Exit 27 on PIE or Exit 11 on AYE\
+By Taxi: Drop off at JEM Mall Taxi Stand\
 By Bus: 5 min walk away from temporary Jurong East Bus Interchange
 
 **Parking Information**\
