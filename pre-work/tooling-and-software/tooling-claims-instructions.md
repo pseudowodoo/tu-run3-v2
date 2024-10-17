@@ -10,5 +10,5 @@ Each participant will be allocated a budget of SGD 100 on tooling required for T
 
 **NLB Colleagues:** NLB has raised the AOR for all participants. Participants should make the payment and retain all receipts as supporting documents to do Petty Cash Claim for the actual expenditure via NLB Workday. The claim is capped at $100 per pax. Please reach out to [Tey Hwee Chen](mailto:tey\_hwee\_chen@nlb.gov.sg) if you need any further clarification or assistance on submitting the claims.
 
-**CSA Colleagues:** CSA has raised the AOR for all participants. Participants should make the payment and submit HRP claims to be reimbursed for the expenses incurred. Please attach a copy of the approved AOR as supporting documents. Please reach out to [Karin Chan](mailto:karin\_chan@csa.gov.sg) if you need any further clarification or assistance on submitting the claims.
+**CSA Colleagues:** CSA has raised the AOR for all participants. Participants should make the payment and retain all receipts as supporting documents. Thereafter, submit the claims via HRP with your receipts and AOR (will be provided to you via email separately), to be reimbursed for the expenses incurred. Please reach out to [Karin Chan](mailto:karin\_chan@csa.gov.sg) if you need any further clarification or assistance on submitting the claims.
 
