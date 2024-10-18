@@ -1,20 +1,18 @@
-# 📱 Expected Deliverables
+---
+icon: globe-pointer
+---
 
-Build your own web app that solves a problem of your choice. The web app you build should meet the requirements below. You are required to present your web app on either 19th or 20th November. More details will be shared with you soon.&#x20;
+# Web App Requirements
 
-{% hint style="info" %}
-Not sure what a web application is? Read about it [here](../supplementary-resources/web-development-and-web-application.md).
-{% endhint %}
+&#x20;To pass the programme, your web app will need to fulfil the following requirements.&#x20;
 
-For you to pass the requirements, your web app will need to demonstrate the following:&#x20;
-
-**A. Product-level Requirements:**
+## **A. Product-level Requirements:**
 
 1. You have clearly formulated a **robust problem statement**, and that your web app clearly is aimed to address this problem, through its features and design.&#x20;
 2. You have **developed and tested your prototype** with users, to ascertain that your assumptions/ hypotheses are valid.&#x20;
 3. You have incorporated **UX Design principles and elements** to allow for an intuitive user experience for the intended users.&#x20;
 
-**B. Hard Technical Requirements:**&#x20;
+## **B. Hard Technical Requirements:**&#x20;
 
 For your app to score a passing grade, your app should also demonstrate the following:
 
@@ -24,13 +22,11 @@ For your app to score a passing grade, your app should also demonstrate the foll
 4. Have a **custom domain name** and **CDN** purchased from **Cloudflare**
 5. Connected to **Google Analytics** so as to track key website data
 
-You will be guided on how to meet the above requirements across the TechUp Programme.&#x20;
-
-
+You will be guided on how to meet both product-level and hard technical requirements across the TechUp Programme. You are required to present your web app during the Evaluation Day (i.e., either 19th or 20th November).&#x20;
 
 ***
 
-### For Advanced Participants <a href="#for-advanced-participants" id="for-advanced-participants"></a>
+## Enhanced Requirements: For Advanced Participants <a href="#for-advanced-participants" id="for-advanced-participants"></a>
 
 If you possess basic background in technology (e.g., you hold a computer science degree), or find the above too easy, you are encouraged to challenge yourself to do more with your web app! Examples of ways to challenge yourself further are as follows:&#x20;
 

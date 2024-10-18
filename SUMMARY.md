@@ -41,7 +41,8 @@
 * [🤷‍♀️ Why do TechUp](about-techup/why-do-techup/README.md)
   * [📏 Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
 * [⚙️ Learning Outcomes](about-techup/learning-outcomes.md)
-* [📱 Expected Deliverables](about-techup/expected-deliverables.md)
+* [📱 Your TechUp Challenge](about-techup/expected-deliverables/README.md)
+  * [Web App Requirements](about-techup/expected-deliverables/web-app-requirements.md)
 * [🧑‍🤝‍🧑 Meet the Team!](about-techup/meet-the-team.md)
 * [✏️ Copy of Meet the Team!](about-techup/meet-the-team-1.md)
 * [❓ Learning Groups](about-techup/learning-groups.md)
@@ -52,10 +53,10 @@
 
 * [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
+* [☑️ Submit your problem statement here](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
 
 ## Web App Presentations
 
-* [❓ Submit your problem statement here](https://docs.google.com/spreadsheets/d/1FRkX2AyFfJtEdNcY8f8kayyaeUpPkqw-wnlPg15ay-8/edit?gid=0#gid=0)
 * [❓ Format](web-app-presentations/format.md)
 * [❓ Presentation Schedule](web-app-presentations/presentation-schedule.md)
 
