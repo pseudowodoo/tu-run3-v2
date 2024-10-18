@@ -4,7 +4,7 @@
 
 In the TechUp Programme, your end goal would be to develop a **functional web application** **that solves a problem of your choice**. To do so, you will need to wear the following hats throughout the course:&#x20;
 
-* _Product Manager_: who perceptively identify the right needs/ problems and, in an agile manner, develops a product in service of these needs
+* _Product Manager_: who perceptively identify the right needs/ problems and, in an agile manner, develops a suitable product in service of these needs
 * _UX Designer_: who employs an iterative, experimental and human-centered approach in product design to build a product that is attuned to serving its end-users
 * _Web App Developer_: who employs computational thinking and coding skills to translate design and product ideas into an actual product for use.&#x20;
 
@@ -29,7 +29,7 @@ To achieve this goal, there are three milestones (the _3P's_) that await you in 
    \
 
 3. _Milestone 3_: Build and Showcase your **Product**\
-   Now it's time to start putting your ideas into action. With the newly learned web development skills you have acquired, start building your web application that approximates the product idea you have. \
+   Now it's time to start putting your ideas into action! With your newfound web development skills, start building your web application that approximates the product idea you have. \
    \
 
 
@@ -42,6 +42,6 @@ To achieve this goal, there are three milestones (the _3P's_) that await you in 
 
 In addition to the 3 milestones shared earlier, you are expected to pass a short MCQ quiz which will assess your knowledge of the Internet. The quiz's contents will revolve around the mandatory pre-course readings in [this page](../pre-work/mandatory-reading-on-how-the-internet-works.md) (i.e., How the Internet Works)
 
-&#x20;This quiz will be conducted around **5th Nov (Tuesday), 11:30AM**. You are expected to attain a score of **70% and above** to be considered to have the pass the quiz.&#x20;
+&#x20;This quiz will be conducted around **5th Nov (Tuesday), 11:30AM**. You are expected to attain a score of **70% and above** to be considered to have passed the quiz.&#x20;
 {% endhint %}
 
