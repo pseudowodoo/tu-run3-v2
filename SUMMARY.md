@@ -41,7 +41,7 @@
 * [🤷‍♀️ Why do TechUp](about-techup/why-do-techup/README.md)
   * [📏 Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
 * [⚙️ Learning Outcomes](about-techup/learning-outcomes.md)
-* [📱 Your TechUp Challenge](about-techup/expected-deliverables/README.md)
+* [📱 Your TechUp Challenge](about-techup/expected-deliverables.md)
   * [Web App Requirements](about-techup/expected-deliverables/web-app-requirements.md)
 * [🧑‍🤝‍🧑 Meet the Team!](about-techup/meet-the-team.md)
 * [✏️ Copy of Meet the Team!](about-techup/meet-the-team-1.md)

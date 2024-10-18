@@ -12,7 +12,7 @@ In the TechUp Programme, your end goal would be to develop a **functional web ap
 All TechUp Participants must complete this challenge before they could be deemed as having passed this programme.&#x20;
 {% endhint %}
 
-_Not sure what a web application is? Read about it_ [_here_](../../supplementary-resources/web-development-and-web-application.md)_!_
+_Not sure what a web application is? Read about it_ [_here_](../supplementary-resources/web-development-and-web-application.md)_!_
 
 ***
 
@@ -36,7 +36,7 @@ To achieve this goal, there are three milestones (the _3P's_) that await you in 
 {% hint style="warning" %}
 ## Important Milestone: The TechUp Quiz (5th Nov)
 
-In addition to the 3 milestones shared earlier, you are expected to pass a short MCQ quiz which will assess your knowledge of the Internet. The quiz's contents will revolve around the mandatory pre-course readings in [this page](../../pre-work/mandatory-reading-on-how-the-internet-works.md) (i.e., How the Internet Works)
+In addition to the 3 milestones shared earlier, you are expected to pass a short MCQ quiz which will assess your knowledge of the Internet. The quiz's contents will revolve around the mandatory pre-course readings in [this page](../pre-work/mandatory-reading-on-how-the-internet-works.md) (i.e., How the Internet Works)
 
 &#x20;This quiz will be conducted around **5th Nov (Tuesday), 11:30AM**. You are expected to attain a score of **70% and above** to be considered to have the pass the quiz.&#x20;
 {% endhint %}

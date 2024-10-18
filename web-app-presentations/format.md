@@ -8,7 +8,7 @@ Please refer to this deck for information on the Web App Presentations.
 
 ### Detailed Web App Requirements <a href="#detailed-web-app-requirements" id="detailed-web-app-requirements"></a>
 
-As earlier mentioned in the [TechUp Deliverables](../about-techup/expected-deliverables/) section, at the end of TechUp you will need to present your web app that meets the following requirements:
+As earlier mentioned in the [TechUp Deliverables](../about-techup/expected-deliverables.md) section, at the end of TechUp you will need to present your web app that meets the following requirements:
 
 1. **Articulate a user problem**
 
