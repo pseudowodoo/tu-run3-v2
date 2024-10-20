@@ -1,20 +1,22 @@
-# 👾 Mandatory Course (Udemy)
+# 👾 \[Mandatory] Web Development Course
 
-[The Complete 2024 Web Development Bootcamp](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#notes) (accessible on Udemy via LEARN app)
+To prepare you for the web development project, you are strongly advised to complete the mandatory courses curated for you, **before** the respective weeks. These courses are extracted from [The Complete 2024 Web Development Bootcamp](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#notes) (accessible on Udemy via LEARN app).
 
-1. You are encouraged to go through this online course before the programme so that you can get a good sense of what is needed to build a web app during the programme.
-2. We have selected a few of the more important modules below that we recommend participants to focus on for essential foundation knowledge.
-3. As coding is a skill that takes consistent revision and practice to build, we strongly recommend officers to come in to TechUp having perused the topics (even if briefly) and bring any questions you have, so that TechUp can serve to reinforce key concepts and skills in web development.
+As the online Bootcamp covers an extremely wide breadth of content, you should focus on the following **before** (not after) the respective in-class sessions. Do try out the exercises as well.&#x20;
+
+* A. Before Week 1 (28/29 Oct): Overview of Front-End Devt; HTML & CSS
+* B. Before Week 2 (4 Nov): Javascript
+* C. Before Week 3 (11 Nov): Backend; Google Analytics
 
 {% hint style="info" %}
-Those indicated in❗️**bold are mandatory for TechUp**.
+Those indicated in❗️**bold are mandatory for TechUp**. You are advised to prioritise these videos before the unbolded courses without the '❗️' sign.&#x20;
 {% endhint %}
 
 {% tabs %}
 {% tab title="A. By 28 Oct (Mon)" %}
 **1. Overview of Front End Web Development & Git/GitHub**
 
-<table><thead><tr><th width="183">Title</th><th>Udemy Link</th><th># of Lectures</th><th>Duration</th></tr></thead><tbody><tr><td>❗️<strong>Front End Web Development</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview">Udemy Section 1</a></td><td>9</td><td>37 min</td></tr><tr><td>❗️<strong>Git, GitHub and Version Control</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12386072#overview">Udemy Section 27</a></td><td>9</td><td>1 hr 17 min</td></tr></tbody></table>
+<table><thead><tr><th width="183">Title</th><th>Udemy Link</th><th># of Lectures</th><th>Duration</th></tr></thead><tbody><tr><td>❗️<strong>Front End Web Development</strong></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12638830#overview">Udemy Section 1</a></td><td>9</td><td>37 min</td></tr><tr><td><em>Git, GitHub and Version Control</em></td><td><a href="https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12386072#overview">Udemy Section 27</a></td><td>9</td><td>1 hr 17 min</td></tr></tbody></table>
 
 **2. HTML**
 
@@ -22,7 +24,7 @@ Those indicated in❗️**bold are mandatory for TechUp**.
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
 | ❗️**Introduction to HTML** | [Udemy Section 2](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37390282#overview) | 8             | 51 min      |
 | ❗️**Intermediate HTML**    | [Udemy Section 3](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349778#overview) | 7             | 51 min      |
-| Multi-Page Websites        | [Udemy Section 4](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349942#overview) | 7             | 1 hr 10 min |
+| _Multi-Page Websites_      | [Udemy Section 4](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37349942#overview) | 7             | 1 hr 10 min |
 
 3. **CSS**
 
@@ -30,7 +32,7 @@ Those indicated in❗️**bold are mandatory for TechUp**.
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------- | ----------- |
 | ❗️**Introduction to CSS** | [Udemy Section 5](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350296#overview)  | 6             | 59 min      |
 | ❗️**Intermediate to CSS** | [Udemy Section 7](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37350528#overview)  | 5             | 1 hr 33 min |
-| Capstone Project 2        | [Udemy Section 13](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37331054#overview) | 1             | \~1 hr      |
+| _Capstone Project 2_      | [Udemy Section 13](https://learncsc.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/37331054#overview) | 1             | \~1 hr      |
 {% endtab %}
 
 {% tab title="B. By 4 Nov (Mon)" %}
