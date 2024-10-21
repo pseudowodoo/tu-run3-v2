@@ -40,12 +40,4 @@ Before you do approach someone else about a problem with your code, please read 
 
 This programme was designed for you because the organisation believes in investing in your learning and development. While there are guidelines and deliverables required of you, what you take away from this programme is what you make of it. We highly encourage you to take this month of learning seriously and be accountable for your own learning. If you foresee or are experiencing any situation that may compromise this, please reach out to the organising committee to explore solutions.
 
-TechUp is a full-time programme, and TechUp is mandatory for all DTC officers and management as part of DTC's 100 hours learning initiative.
-
-If you need to be excused on any of the days due to valid reasons, you will need to inform the TechUp team and also seek your director’s approval.
-
-If you have any urgent work to clear during the course of the programme which requires an absence for any of the sessions, you will need to write to DS Feng-Ji (sim\_feng\_ji@pmo.gov.sg) and your Dir, and copy Ruimin (he\_ruimin@mci.gov.sg) and Yunxi (yunxi@open.gov.sg).
-
-If you appear to be doing work during the programme without prior clearance/approval, DS Feng-Ji and your Dir will be notified.
-
 </details>
