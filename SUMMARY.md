@@ -40,6 +40,7 @@
 * [🙂 About TechUp](about-techup/about-techup.md)
 * [🤷‍♀️ Why do TechUp](about-techup/why-do-techup/README.md)
   * [📏 Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
+  * [Notice of Filming and Photography](about-techup/why-do-techup/notice-of-filming-and-photography.md)
 * [⚙️ Learning Outcomes](about-techup/learning-outcomes.md)
 * [📱 Your TechUp Challenge](about-techup/expected-deliverables.md)
   * [Web App Requirements](about-techup/expected-deliverables/web-app-requirements.md)
