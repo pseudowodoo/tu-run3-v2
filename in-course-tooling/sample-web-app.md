@@ -32,8 +32,8 @@ You will need to be signed in to GitHub and Render.com before you setup the Samp
 [github.md](../pre-work/tooling-and-software/github.md)
 {% endcontent-ref %}
 
-{% content-ref url="../pre-work/tooling-and-software/render.md" %}
-[render.md](../pre-work/tooling-and-software/render.md)
+{% content-ref url="../pre-work/tooling-and-software/render/" %}
+[render](../pre-work/tooling-and-software/render/)
 {% endcontent-ref %}
 
 ### Instructions on setting up your sample web app

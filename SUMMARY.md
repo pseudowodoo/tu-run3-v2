@@ -1,13 +1,12 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
-  * [ℹ️ Announcements](readme/announcements.md)
-  * [❓ What You Need to Know](readme/what-you-need-to-know.md)
-  * [🗓️ Tech Up Calendar](readme/tech-up-calendar.md)
+  * [ℹ️ Announcement History](readme/announcements.md)
   * [Venues](readme/venues.md)
   * [📖 Frequently Asked Questions](readme/frequently-asked-questions.md)
-  * [✏️ Backup of Frequently Asked Questions](readme/frequently-asked-questions-1.md)
   * [💌 Contact Persons](readme/contact-persons.md)
+* [❓ What You Need to Know](what-you-need-to-know.md)
+* [🗓️ TechUp Calendar](tech-up-calendar.md)
 
 ## 📖 Pre-Work (To be completed before Programme) <a href="#pre-work" id="pre-work"></a>
 
@@ -15,7 +14,9 @@
   * [📨 AOR  & Claims Instructions](pre-work/tooling-and-software/tooling-claims-instructions.md)
   * [🖱️ Slack](pre-work/tooling-and-software/slack.md)
   * [GitHub](pre-work/tooling-and-software/github.md)
-  * [Render](pre-work/tooling-and-software/render.md)
+  * [Render](pre-work/tooling-and-software/render/README.md)
+    * [For Websites without Backend (Default for TechUp)](pre-work/tooling-and-software/render/for-websites-without-backend-default-for-techup.md)
+    * [For Websites with Backend (For Advanced Learners)](pre-work/tooling-and-software/render/for-websites-with-backend-for-advanced-learners.md)
 * [🌎 Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 * [👾 \[Mandatory\] Web Development Course](pre-work/mandatory-course-udemy.md)
 * [👾 \[Superseded\] Mandatory Course (Udemy)](pre-work/mandatory-course-udemy-1.md)
@@ -94,3 +95,4 @@
 * [Learning Points](hidden-group-example/policy-takeaways/README.md)
   * [Slack Checklist](hidden-group-example/policy-takeaways/slack-checklist.md)
   * [Facilitators](hidden-group-example/policy-takeaways/facilitators.md)
+* [✏️ Backup of Frequently Asked Questions](hidden-group-example/frequently-asked-questions.md)

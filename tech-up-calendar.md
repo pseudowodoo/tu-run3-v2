@@ -1,16 +1,16 @@
-# 🗓️ Tech Up Calendar
+# 🗓️ TechUp Calendar
 
 ### Week 1&#x20;
 
 {% tabs %}
 {% tab title="Mon 28 Oct" %}
-Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17) (see [Venues](venues.md) for access instructions)
+Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17) (see [Venues](readme/venues.md) for access instructions)
 
 <table data-header-hidden><thead><tr><th width="216">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:00 – 9:45am</td><td>Keynote Opening by PS <br><em>PS Joseph Leong</em></td></tr><tr><td>9:45 – 10:15am</td><td><p>Course Introduction &#x26; Admin Briefing</p><p><em>Digital Academy</em></p></td></tr><tr><td>10.15 – 10.30am</td><td>Break (15 mins) </td></tr><tr><td>10:30am – 12:00pm</td><td><p>How the Internet Works</p><p><em>Sng Swee Keat, Principal Software Engineer</em></p></td></tr><tr><td>12.00 – 1.30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 4:00pm</td><td><p>Experimental Mindsets and Problem Statements</p><p><em>Lim Eyung, Gov Digital Products</em></p></td></tr><tr><td>4:00 – 4:45pm</td><td><p>Overview to Web App Development and Tooling Setup</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>4:45 – 5:00pm</td><td>End of Day Debrief</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Tue 29 Oct" %}
-Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17) (see [Venues ](venues.md)for access instructions)
+Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17) (see [Venues ](readme/venues.md)for access instructions)
 
 <table><thead><tr><th width="208">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30 – 10:30am</td><td><p>What is Good Design</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>10.30 – 10.45am</td><td>Break (15 mins) </td></tr><tr><td>10:45 – 12:00pm</td><td><p>How to Design Prototypes</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>12:00 – 1:30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:15pm</td><td><p>Web App Development: HTML &#x26; CSS</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>3:15 – 3:30pm</td><td>Break (15 mins) </td></tr><tr><td>3:30 – 4:45pm</td><td><p>Web App Development: HTML &#x26; CSS (cont’d)</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>4:45 – 5:00pm</td><td>End of Day Debrief</td></tr></tbody></table>
 {% endtab %}

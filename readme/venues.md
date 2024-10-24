@@ -4,7 +4,7 @@ icon: circle-location-arrow
 
 # Venues
 
-You may refer to the [TechUp calendar ](tech-up-calendar.md)during the programme for the most up-to-date venues for each session, but broadly:
+You may refer to the [TechUp calendar ](../tech-up-calendar.md)during the programme for the most up-to-date venues for each session, but broadly:
 
 1. All in-person workshops and sessions will be held at **MND Office Towers @ JEM.**
    1. Attendees are to register with the security counter on Level 1 on all training days.
