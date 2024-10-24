@@ -28,6 +28,12 @@ This section is for users who do intend to have a Node JS backend for their weba
 
 <figure><img src="../../../.gitbook/assets/ren-17.avif" alt=""><figcaption><p>Select the Free tier then click on Create Web Service</p></figcaption></figure>
 
+{% hint style="info" %}
+Note that, at this step, you may be asked to enter your **credit card details** to verify your identity; without which, you cannot proceed.&#x20;
+
+We would recommend that you proceed to do so. For the programme, you should not be incurring any expenses from the use of Render, as we will be using the **free plan** by default. That said, should you be using a paid plan for improved functionality, you should also be able to claim for reimbursement, as each participant has been [allocated a $100 budget](../tooling-claims-instructions.md) for tooling purposes.&#x20;
+{% endhint %}
+
 #### 6. Your application is now successfully deployed!
 
 <figure><img src="../../../.gitbook/assets/ren-18.avif" alt=""><figcaption><p>Success!</p></figcaption></figure>

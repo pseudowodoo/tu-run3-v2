@@ -16,7 +16,7 @@ _Not sure what a web application is? Read about it_ [_here_](../supplementary-re
 
 ***
 
-## **Your Milestones -- i.e., the 3P's:**&#x20;
+## **Your Milestones (the 3Ps)**&#x20;
 
 To achieve this goal, there are three milestones (the _3P's_) that await you in this TechUp journey:&#x20;
 
@@ -33,14 +33,14 @@ To achieve this goal, there are three milestones (the _3P's_) that await you in 
    \
 
 
-<table><thead><tr><th width="168">Milestone</th><th width="398">Deliverables</th><th>Deadline</th></tr></thead><tbody><tr><td>1: Define the Right <strong>Problem</strong></td><td>Submit a writeup of your problem statement, and how your intended app could address this problem (<em>link to be provided</em>). </td><td>By <strong>1st Nov (Fri)</strong>, EOD</td></tr><tr><td>2: <strong>Prototype</strong> your Idea towards Success</td><td>After testing your prototype with users, submit a writeup of (1) the key <em>insights</em> you gained from your user testing; (2) the <em>changes</em> you plan to make in light of these newfound insights; and (3) your revised writeup to milestone 1. </td><td>By <strong>8th Nov (Fri)</strong>, EOD</td></tr><tr><td>3a: Build your <strong>Product</strong></td><td>After building your web app, provide the link to your web app and a short description of what it does.</td><td>By <strong>15th Nov (Fri)</strong>, EOD</td></tr><tr><td>3b: Showcase your <strong>Product</strong></td><td>Get ready to present your product and the underlying thinking before a panel of evaluators during <em>Evaluation Day</em>. Subsequently, get ready to showcase your app to prospective users during <em>Demo Day</em>, pasar malam style!</td><td><em>Eval Day</em>: <strong>19th-20th Nov</strong> (Tue-Wed)<br><em>Demo Day</em>: <strong>22nd Nov</strong> (Fri)</td></tr></tbody></table>
+<table><thead><tr><th width="168">Milestone</th><th width="398">Deliverables</th><th>Deadline</th></tr></thead><tbody><tr><td>1: Define the Right <strong>Problem</strong></td><td>Submit a writeup of your problem statement, and how your intended app could address this problem (<em>link to be provided</em>). </td><td>By <strong>1st Nov (Fri)</strong>, EOD</td></tr><tr><td>2: <strong>Prototype</strong> your Idea towards Success</td><td>After testing your prototype with users, submit a writeup of (1) the key <em>insights</em> you gained from your user testing; (2) the <em>changes</em> you plan to make in light of these newfound insights; and (3) your revised writeup to milestone 1. </td><td>By <strong>8th Nov (Fri)</strong>, EOD</td></tr><tr><td>3a: Build your <strong>Product</strong></td><td>After building your web app, provide the link to your web app and a short description of what it does.</td><td>By <strong>15th Nov (Fri)</strong>, EOD</td></tr><tr><td>3b: Showcase your <strong>Product</strong></td><td>Get ready to present your product and the underlying thinking before a panel of evaluators during <em>Presentation Day</em>. Subsequently, get ready to showcase your app to prospective users during <em>Demo Day</em>, pasar malam style!</td><td><em>Presentation Day</em>: <strong>19th-20th Nov</strong> (Tue-Wed)<br><em>Demo Day</em>: <strong>22nd Nov</strong> (Fri)</td></tr></tbody></table>
 
 ***
 
 {% hint style="warning" %}
 ## Important Milestone: The TechUp Quiz (5th Nov)
 
-In addition to the 3 milestones shared earlier, you are expected to pass a short MCQ quiz which will assess your knowledge of the Internet. The quiz's contents will revolve around the mandatory pre-course readings in [this page](../pre-work/mandatory-reading-on-how-the-internet-works.md) (i.e., How the Internet Works)
+In addition to the 3 milestones shared earlier, you are expected to pass a short MCQ quiz which will assess your knowledge of the Internet. The quiz's contents will revolve around the mandatory pre-course readings in [this page](../pre-work/mandatory-reading-on-how-the-internet-works.md) (i.e., _How the Internet Works_)
 
 &#x20;This quiz will be conducted around **5th Nov (Tuesday), 11:30AM**. You are expected to attain a score of **70% and above** to be considered to have passed the quiz.&#x20;
 {% endhint %}
