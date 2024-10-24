@@ -4,8 +4,8 @@ icon: database
 
 # Render
 
-{% hint style="info" %}
-Create a GitHub account first if you haven't already done so. Instructions on how to create a GitHub account can be found on this page [GitHub](../github.md).
+{% hint style="warning" %}
+**Create a GitHub account first if you haven't already done so**. Instructions on how to create a GitHub account can be found on this page [GitHub](../github.md).
 {% endhint %}
 
 ### Creating a Render account
@@ -36,51 +36,17 @@ Create a GitHub account first if you haven't already done so. Instructions on ho
 
 <figure><img src="../../../.gitbook/assets/ren-7.avif" alt=""><figcaption><p>🎉 You now have a Render account!</p></figcaption></figure>
 
-### Deploying my Website (without a Backend)
 
-#### 1. Open Render Dashboard ([https://dashboard.render.com](https://dashboard.render.com/)) and click on New Static Site.
 
-<figure><img src="../../../.gitbook/assets/ren-8.avif" alt=""><figcaption><p>Click on New Static Site</p></figcaption></figure>
-
-#### 2. Connect to your repository
+{% hint style="info" %}
+Before the course, you are only expected to do up to Step #6 above - i.e., to setup your Render Account.&#x20;
 
 
 
-<figure><img src="../../../.gitbook/assets/ren-9.avif" alt=""><figcaption><p>Click on Connect</p></figcaption></figure>
+As you build your web app, you will need to select whether to build a static site vs. to build a web service on Render.&#x20;
 
-#### 3. Set the publish directory to "." and click Create Static Site
+* (i) For those who do not intend to build a backend: you will need to use a [**static site**](for-websites-without-backend-default-for-techup.md). (For TechUp participants by default)
+* (ii) For those who intend to build a backend: you will need to use [**web service**](for-websites-with-backend-for-advanced-learners.md). (For advanced learners)&#x20;
 
-<figure><img src="../../../.gitbook/assets/ren-10.avif" alt=""><figcaption><p>Set publish directory to "." and click Create Static Site</p></figcaption></figure>
-
-
-
-#### 4. Congrats, your website should now start building and successfully deployed!
-
-<figure><img src="../../../.gitbook/assets/ren-11.avif" alt=""><figcaption><p>You website is now deployed!</p></figcaption></figure>
-
-### (Optional) Deploying my Web App with a NodeJS Backend
-
-#### 1. Open Render Dashboard ([https://dashboard.render.com](https://dashboard.render.com/)) and click on New Web Service.
-
-<figure><img src="../../../.gitbook/assets/ren-12.avif" alt=""><figcaption><p>Click on New Web Service</p></figcaption></figure>
-
-#### 2. Select Build and deploy from a Git repository then click Next
-
-<figure><img src="../../../.gitbook/assets/ren-13.avif" alt=""><figcaption><p>Click next once you have selected the Git repository option</p></figcaption></figure>
-
-#### 3. Connect to your GitHub Repository
-
-<figure><img src="../../../.gitbook/assets/ren-14.avif" alt=""><figcaption><p>Select the repository for your NodeJS application and click connect</p></figcaption></figure>
-
-#### 4. Enter the Build and Start Command for your application (the screenshot assumes your routing filename is server.js)
-
-<figure><img src="../../../.gitbook/assets/ren-15.avif" alt=""><figcaption><p>Enter the build command of "npm install" and start command of "node server.js" or "node app.js" if your filename is app.js</p></figcaption></figure>
-
-#### 5. Change the Instance Type to Free then click Create Web Service
-
-<figure><img src="../../../.gitbook/assets/ren-17.avif" alt=""><figcaption><p>Select the Free tier then click on Create Web Service</p></figcaption></figure>
-
-#### 6. Your application is now successfully deployed!
-
-<figure><img src="../../../.gitbook/assets/ren-18.avif" alt=""><figcaption><p>Success!</p></figcaption></figure>
-
+We will get into these details during the course.&#x20;
+{% endhint %}
