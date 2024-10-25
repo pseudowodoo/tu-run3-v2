@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-**GovTech Colleagues:** Participants may refer to GovTech's [prevailing transport policy](https://gccprod.sharepoint.com/sites/GOVTECH-intranet/hr/SitePages/Local-Transport-Reimbursement.aspx?web=1).
+**GovTech Colleagues:** Participants may refer to GovTech's prevailing transport policy.
 
 **IMDA Colleagues:** Participants may refer to IMDA's prevailing transport policy.
 
