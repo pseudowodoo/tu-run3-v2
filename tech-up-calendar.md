@@ -22,7 +22,7 @@ Venue: JEM Office Tower Auditorium (Lv. 6)
 
 Registration: **9:45am - 10:30am**
 
-<table><thead><tr><th width="195">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:30 – 11:00am</td><td><p>How to Design Prototypes (cont’d)</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>11:15 – 12:30pm</td><td><p>How to Test Prototypes</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>12:30 – 1:30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:15pm</td><td><p>How to Test Prototypes (cont’d)</p><p><em>Fala Sharil, Lead UX Designer</em></p><p></p></td></tr><tr><td>3:15 – 3:30pm</td><td>Break (15 mins) </td></tr><tr><td>3:30 – 4:30pm</td><td><p>Mobile vs Web Apps</p><p><em>Stephanie Siow, DD, MDDI</em></p></td></tr><tr><td>4:30 – 4:45pm</td><td>End of Day Debrief</td></tr></tbody></table>
+<table><thead><tr><th width="195">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:30am – 12:30pm</td><td><p>How to Test Your Prototype</p><p><em>Fala Sharil, Lead UX Designer</em></p></td></tr><tr><td>12:30 – 1:30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:15pm</td><td><p>How to Test Prototypes (cont’d)</p><p><em>Fala Sharil, Lead UX Designer</em></p><p></p></td></tr><tr><td>3:15 – 3:30pm</td><td>Break (15 mins) </td></tr><tr><td>3:30 – 4:30pm</td><td><p>Mobile vs Web Apps</p><p><em>Stephanie Siow, DD, MDDI</em></p></td></tr><tr><td>4:30 – 4:45pm</td><td>End of Day Debrief</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Thu 31 Oct" %}
