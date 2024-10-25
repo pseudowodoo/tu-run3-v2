@@ -48,7 +48,7 @@
   * [Web App Requirements](about-techup/expected-deliverables/web-app-requirements.md)
 * [🧑‍🤝‍🧑 Meet the Team!](about-techup/meet-the-team.md)
 * [✏️ Copy of Meet the Team!](about-techup/meet-the-team-1.md)
-* [❓ Learning Groups](about-techup/learning-groups.md)
+* [🪑 Learning Groups](about-techup/learning-groups.md)
 * [✏️ Meet your participants](about-techup/meet-your-participants.md)
 * [Past TechUp Web Apps (Crtl + Click to open new Tab)](https://run2.techup.today)
 
