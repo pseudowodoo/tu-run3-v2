@@ -33,7 +33,7 @@ Training hours are typically from 9:00am to 6.00pm, unless otherwise stated.
 
 The programme will be conducted at 2 different venues:
 
-<table><thead><tr><th width="328">Venue</th><th>Address</th></tr></thead><tbody><tr><td><strong>MND @ JEM</strong><br>Ministry of National Development Office Towers @ JEM</td><td><p>52 Jurong Gateway Road,</p><p>Singapore 60855</p></td></tr><tr><td><strong>MDDI</strong><br>Ministry of Digital Development and Information</td><td><p>140 Hill Street, Old Hill Street Police Station, </p><p>Singapore 179369</p></td></tr></tbody></table>
+<table><thead><tr><th width="328">Venue</th><th>Address</th></tr></thead><tbody><tr><td><strong>MND @ JEM</strong><br>Ministry of National Development Office Towers @ JEM</td><td><p>52 Jurong Gateway Road,</p><p>Singapore 608550</p></td></tr><tr><td><strong>MDDI</strong><br>Ministry of Digital Development and Information</td><td><p>140 Hill Street, Old Hill Street Police Station, </p><p>Singapore 179369</p></td></tr></tbody></table>
 
 Please visit [Venues ](readme/venues.md)page for more information
 
