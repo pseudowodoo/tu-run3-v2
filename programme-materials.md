@@ -29,6 +29,9 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 ### E. Web Development&#x20;
 
 1. [Overview of Web Development ](https://docs.google.com/presentation/d/1yLwDaWEF4PfEDlO4AtpjDf8eRjNasNyOwZ7dJfT5RUo/edit?usp=drive\_link)(28 Oct) - Facilitator: Winston Teo
+2. Overview of Git, GitHub, and CodeSpaces&#x20;
+3. Overview of HTML
+4. Overview of CSS
 
 
 {% endtab %}
@@ -39,6 +42,8 @@ _To be uploaded soon._ [\
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
