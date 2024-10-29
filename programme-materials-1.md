@@ -1,10 +1,14 @@
-# ✏️ Programme Materials
+---
+hidden: true
+---
+
+# 📚 \[TU2 Ref] Programme Materials
 
 
 
 {% tabs %}
 {% tab title="Slide Decks" %}
-Note: All materials produced for TechUp are owned by Smart Nation Group and Open Government Products. All content, including text, images, graphics, and other materials on this platform, are protected by copyright law. All rights are reserved.
+Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open Government Products and GovTech. All content, including text, images, graphics, and other materials on this platform, are protected by copyright law. All rights are reserved.
 
 
 
@@ -13,6 +17,10 @@ Note: All materials produced for TechUp are owned by Smart Nation Group and Open
 * [Programme Introduction](https://drive.google.com/file/d/1UdaOhuF3M\_UmskIIRS6vRlrky\_n9GDPm/view?usp=sharing) (6 May)
 * [How the Internet Works](https://docs.google.com/presentation/d/12su5WrpCPGDdJFkRA7WuCRqmAMv29bTyg\_pXOxgYJqg/edit?usp=sharing)
 * Administrative Briefing on Web App Presentations and Demo Day
+
+### Internet  <a href="#overviews" id="overviews"></a>
+
+### &#x20;<a href="#overviews" id="overviews"></a>
 
 ### Overviews <a href="#overviews" id="overviews"></a>
 

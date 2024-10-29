@@ -168,8 +168,8 @@ We have selected a few of the more important modules (marked with "❗") that we
 
 The TechUp team has also prepared primers to break down key concepts related to **front-end development, Git/GitHub, HTML, CSS, JavaScript, back-end development Databases and APIs.** These are short lectures with some hands-on exercises.
 
-{% content-ref url="../week-1/programme-materials.md" %}
-[programme-materials.md](../week-1/programme-materials.md)
+{% content-ref url="../programme-materials.md" %}
+[programme-materials.md](../programme-materials.md)
 {% endcontent-ref %}
 
 ### Weeks 7-10 and beyond (40+ hours): CS50 for Lawyers (highly recommended as a bonus)

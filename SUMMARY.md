@@ -28,6 +28,8 @@
   * [Cloudflare](in-course-tooling/cloudflare.md)
   * [Google Analytics](in-course-tooling/google-analytics.md)
 * [❗ YOUR DELIVERABLES SHEET](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
+* [📚 Programme Materials](programme-materials.md)
+* [📚 \[TU2 Ref\] Programme Materials](programme-materials-1.md)
 
 ## ✏️ Week 1 (28 Oct - 1 Nov) <a href="#week-1" id="week-1"></a>
 
@@ -35,7 +37,6 @@
 * [✏️ Prework for this Week!](week-1/prework-for-this-week.md)
 * [✏️ By Day 1 or Module](week-1/by-day-1-or-module/README.md)
   * [✏️ If required](week-1/by-day-1-or-module/if-required.md)
-* [✏️ Programme Materials](week-1/programme-materials.md)
 
 ## About TechUp
 
