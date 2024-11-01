@@ -49,7 +49,7 @@ Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17)
 {% tab title="Tue 5 Nov" %}
 Venue: JEM Office Tower Auditorium (Lv. 6)
 
-<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:00 – 11:30am</td><td><p>How to Build an 11-star Product</p><p><em>Kaiwei Chen, Head of Product Practice</em></p></td></tr><tr><td>11.30 – 11.45</td><td>Break (15 mins) </td></tr><tr><td>11:45 – 12:45</td><td><p>TechUp Programme Quiz</p><p><em>Digital Academy</em></p></td></tr><tr><td>12.45 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2:00 – 3:00pm</td><td>Self-Paced Project Work</td></tr><tr><td>3:00 – 4:00pm</td><td><p>Fireside Chat with MDDI Leaders</p><p><em>PS Joseph Leong</em></p></td></tr><tr><td>4:00 – 5:00pm</td><td>Happy Hour</td></tr></tbody></table>
+<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10:00 – 11:30am</td><td><p>How to Build an 11-star Product</p><p><em>Kaiwei Chen, Head of Product Practice</em></p></td></tr><tr><td>11.30 – 11.45 am</td><td>Break (15 mins) </td></tr><tr><td>11:45 – 1.00 pm</td><td>Policy Implications Primer<br><em>Patrick Pang</em></td></tr><tr><td>1.00 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2:00 – 2.45 pm</td><td>TechUp Programme Quiz<br><em>Digital Academy</em></td></tr><tr><td>3:00 – 4:00pm</td><td><p>Fireside Chat with MDDI Leaders</p><p><em>PS Joseph Leong</em></p></td></tr><tr><td>4:00 – 5:00pm</td><td>Happy Hour</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Web 6 Nov" %}
