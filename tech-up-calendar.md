@@ -42,7 +42,7 @@ Self Paced Learning  - Office Hours / Project Work&#x20;
 Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17)\
 Registration: 9.00 - 9.30 am
 
-<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30 – 12:30pm</td><td><p>ProductUp</p><p><em>Lennard Lim, Lead Product Manager, OGP</em></p></td></tr><tr><td>12.30 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2:00 – 4:00pm</td><td>Web App Development: Javascript<br><em>Winston Teo, Head of Engineering Practice</em></td></tr><tr><td>4:00– 4:30pm</td><td>End of Day Debrief</td></tr></tbody></table>
+<table><thead><tr><th width="205">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30am – 12:30pm</td><td><p>ProductUp</p><p><em>Lennard Lim, Lead Product Manager, OGP</em></p></td></tr><tr><td>12.30 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2:00 – 4:00pm</td><td>Web App Development: Javascript<br><em>Winston Teo, Head of Engineering Practice</em></td></tr><tr><td>4:00– 4:30pm</td><td>End of Day Debrief</td></tr></tbody></table>
 
 
 {% endtab %}
