@@ -19,6 +19,7 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 ### C. Product Management:  <a href="#overviews" id="overviews"></a>
 
 1. [Experimental Mindset & Problem Statements](https://docs.google.com/presentation/d/1\_xbFLXEeEeIJcVuEHWM\_J3F-HdwjYEaz66AmVd-Ento/edit?usp=sharing) (28 Oct) - Facilitator: Lim Eyung
+2. [ProductUp](https://docs.google.com/presentation/d/1tyTCcE5Mm98d-Iy3fzZGtSB\_tcw-zg-FJC\_7KHmcCaQ/edit#slide=id.g30c6d32c193\_2\_55) (4 Nov) - Facilitator: Lennard Lim
 
 ### D. UX Design
 
@@ -32,8 +33,6 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 2. [Overview of Git, GitHub, and CodeSpaces](https://docs.google.com/presentation/d/1Sz8RQ7JbaY-kisoCZq-NlyEuiftWUCve3P3pbKDNpvM/edit#slide=id.g30c26565a9b\_2\_55) (29 Oct)- Facilitator: Winston Teo
 3. [Overview of HTML](https://docs.google.com/presentation/d/1dCoYu3hbezjPL7Sv-eb4sg6YMp8uRyzfno0\_1mKgA7U/edit#slide=id.g30c1a54c2fc\_2\_55) (29 Oct): Facilitator: Winston Teo
 4. [Overview of CSS](https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152): (29 Oct) Facilitator: Winston Teo
-
-
 {% endtab %}
 
 {% tab title="Recordings" %}
@@ -42,6 +41,8 @@ _To be uploaded soon._ [\
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
