@@ -31,9 +31,10 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 
 1. [Overview of Web Development ](https://docs.google.com/presentation/d/1yLwDaWEF4PfEDlO4AtpjDf8eRjNasNyOwZ7dJfT5RUo/edit?usp=drive\_link)(28 Oct) - Facilitator: Winston Teo
 2. [Overview of Git, GitHub, and CodeSpaces](https://docs.google.com/presentation/d/1Sz8RQ7JbaY-kisoCZq-NlyEuiftWUCve3P3pbKDNpvM/edit#slide=id.g30c26565a9b\_2\_55) (29 Oct)- Facilitator: Winston Teo
-3. [Overview of HTML](https://docs.google.com/presentation/d/1dCoYu3hbezjPL7Sv-eb4sg6YMp8uRyzfno0\_1mKgA7U/edit#slide=id.g30c1a54c2fc\_2\_55) (29 Oct): Facilitator: Winston Teo
-4. [Overview of CSS](https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152): (29 Oct) Facilitator: Winston Teo
-5. [Mobile vs Web Apps](https://docs.google.com/presentation/d/1NuGL7rPHdbBAH0Mo6LS8wzhy4CPAW120lbPyAxnn7Cw/edit#slide=id.g26c09f01acf\_0\_129) (30 Oct) Facilitator: Stephanie Siow
+3. [Overview of HTML](https://docs.google.com/presentation/d/1dCoYu3hbezjPL7Sv-eb4sg6YMp8uRyzfno0\_1mKgA7U/edit#slide=id.g30c1a54c2fc\_2\_55) (29 Oct) - Facilitator: Winston Teo
+4. [Overview of CSS](https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152): (29 Oct) - Facilitator: Winston Teo
+5. [Overview of JavaScript](https://docs.google.com/presentation/d/1CXiN0koSylM\_22-HZmxboNmfmtafJOjQjbqyUOIJQqM/edit#slide=id.g2fc71325947\_2\_55) (4 Nov) : Facilitator: Winsteo Teo
+6. [Mobile vs Web Apps](https://docs.google.com/presentation/d/1NuGL7rPHdbBAH0Mo6LS8wzhy4CPAW120lbPyAxnn7Cw/edit#slide=id.g26c09f01acf\_0\_129) (30 Oct) - Facilitator: Stephanie Siow
 {% endtab %}
 
 {% tab title="Recordings" %}
