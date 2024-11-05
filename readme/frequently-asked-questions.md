@@ -36,7 +36,7 @@ Please refer to [Contact Persons](contact-persons.md) to address your concerns.
     Yes, as long as you are able to build your solution in time for the web app presentation on 19 and 20 Nov 2024.
 *   **Does my web app need to solve a problem? What kind of problem?**
 
-    Yes, the deliverable for TechUp is to build your own web app (frontend)  that solves a problem of your choice. The web app you build should meet the requirements stated in [this webpage](../techup-challenge/expected-deliverables.md).&#x20;
+    Yes, the deliverable for TechUp is to build your own web app (frontend)  that solves a problem of your choice. The web app you build should meet the requirements stated in [this webpage](../about-techup/expected-deliverables.md).&#x20;
 *   **How can I find inspiration on what type of webapp to build?**
 
     You may find inspiration on the webapps built by our previous run of TechUp participants [here](https://techup.live/).

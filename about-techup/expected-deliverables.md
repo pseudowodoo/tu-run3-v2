@@ -1,4 +1,4 @@
-# 📱 Your TechUp Challenge
+# 📱 Deliverables & Milestones
 
 ## **Your TechUp Challenge**&#x20;
 
