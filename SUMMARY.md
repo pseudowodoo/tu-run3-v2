@@ -27,7 +27,6 @@
   * [📲 Sample Web App](in-course-tooling/sample-web-app.md)
   * [Cloudflare](in-course-tooling/cloudflare.md)
   * [Google Analytics](in-course-tooling/google-analytics.md)
-* [❗ YOUR DELIVERABLES SHEET](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
 * [📚 Programme Materials](programme-materials.md)
 * [📚 \[TU2 Ref\] Programme Materials](programme-materials-1.md)
 
@@ -38,6 +37,14 @@
 * [✏️ By Day 1 or Module](week-1/by-day-1-or-module/README.md)
   * [✏️ If required](week-1/by-day-1-or-module/if-required.md)
 
+## TechUp Challenge
+
+* [📱 Deliverables & Milestones](techup-challenge/expected-deliverables.md)
+* [Web App Requirements](techup-challenge/web-app-requirements.md)
+* [❗ Your Deliverables Sheet](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
+* [Post-User Interview Reflections (8 Nov)](techup-challenge/post-user-interview-reflections-8-nov.md)
+* [Web App Presentation](techup-challenge/web-app-presentation.md)
+
 ## About TechUp
 
 * [🙂 About TechUp](about-techup/about-techup.md)
@@ -45,8 +52,6 @@
   * [📏 Rules of Engagement](about-techup/why-do-techup/rules-of-engagement.md)
   * [📸 Notice of Filming and Photography](about-techup/why-do-techup/notice-of-filming-and-photography.md)
 * [⚙️ Learning Outcomes](about-techup/learning-outcomes.md)
-* [📱 Your TechUp Challenge](about-techup/expected-deliverables.md)
-  * [Web App Requirements](about-techup/expected-deliverables/web-app-requirements.md)
 * [🧑‍🤝‍🧑 Meet the Team!](about-techup/meet-the-team.md)
 * [✏️ Copy of Meet the Team!](about-techup/meet-the-team-1.md)
 * [🪑 Learning Groups](about-techup/learning-groups.md)

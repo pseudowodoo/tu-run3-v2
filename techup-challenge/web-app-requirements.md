@@ -35,3 +35,40 @@ If you possess basic background in technology (e.g., you hold a computer science
 3. Implement Continuous Integration and Development (CI/CD) - write test cases that run automatically each time their app gets deployed, to help them catch errors
 4. Use an automated security testing tool to prove that their web apps are secure
 5. Web app can address a real existing problem statement contributed by other public service agencies
+
+### Limitations of Front-End Only Web Apps
+
+The basic requirement for your web app is that it should have a functioning front-end interface, via employing the use of HTML, CSS and Javascript.
+
+Note that the lack of a back-end may limit the functionality of your web app – see below:
+
+#### A. Without Backend
+
+Examples include:
+
+* **Present recommended options based on specific criteria**\
+  As users indicate their preferred criteria, the website returns suitable options that match users’ preferred options.
+* **Basic Quiz App**\
+  Allows for the building of MCQ quiz with instant feedback & score tracking
+* **Image Gallery**\
+  An image gallery with click-to-enlarge functionality
+* **Calculators**\
+  Simple calculations such as BMI calculators
+
+#### B. With Backend
+
+Examples of BE-enabled functions include:
+
+* **Deep User Interactions**\
+  Such as posting comments, liking content.
+* **Personalisation**\
+  **E**.g., after logging in, a user might see personalized content, such as their profile information, personalized recommendations. This data is saved and accessed.
+* **Authentication**\
+  User logins
+* **API Calls**\
+  E.g., Submits a call to Google Maps API
+* **App to save user submissions**\
+  To-do note Keeping APP, crowd source of information&#x20;
+
+
+
