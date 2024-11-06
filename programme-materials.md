@@ -20,6 +20,7 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 
 1. [Experimental Mindset & Problem Statements](https://docs.google.com/presentation/d/1\_xbFLXEeEeIJcVuEHWM\_J3F-HdwjYEaz66AmVd-Ento/edit?usp=sharing) (28 Oct) - Facilitator: Lim Eyung
 2. [ProductUp](https://docs.google.com/presentation/d/1tyTCcE5Mm98d-Iy3fzZGtSB\_tcw-zg-FJC\_7KHmcCaQ/edit#slide=id.g30c6d32c193\_2\_55) (4 Nov) - Facilitator: Lennard Lim
+3. [How to Build an 11-Star Product](https://docs.google.com/presentation/d/1z\_mducct66nM\_ln46PTmyX5GBtCP83UrZmaKjbN4CmM/edit) (5 Nov): Facilitator: Kaiwen Chen
 
 ### D. UX Design
 
