@@ -2,7 +2,6 @@
 description: >-
   Additional tooling materials that are essential during the course; to be
   downloaded after the course commences.
-hidden: true
 ---
 
 # 🛠️ IN-COURSE TOOLING

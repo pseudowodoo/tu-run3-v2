@@ -1,48 +1,12 @@
-# 📲 Sample Web App
+---
+description: >-
+  This exercise is required for the hands-on in the Backend workshop (11th Nov,
+  Mon)
+---
 
-{% hint style="info" %}
-**In this exercise, we will teach you how to:**
+# 📲 Building a Sample Web App
 
-1. Create a GitHub repository to store your sample code (in Git files)
-2. Upload ("commit and push") your HTML + CSS + JS code to GitHub
-3. Connect a sample website to a database on Postgres
-
-**This exercise is meant to simulate how you would deploy your live website onto the Internet.**
-{% endhint %}
-
-### Web technologies powering the Sample Web App
-
-The Sample Web App is hosted on Render.com, a cloud-based application hosting platform with the following components:
-
-* **Frontend:** HTML, CSS and Javascript
-* **Backend:** NodeJS, Express, EJS
-* **Database:** Postgres
-
-<figure><img src="../.gitbook/assets/sample-1.avif" alt=""><figcaption><p>Extremely simple System architecture of Sample Web App</p></figcaption></figure>
-
-### Sign in to GitHub and Render
-
-You will need to be signed in to GitHub and Render.com before you setup the Sample Web Application. For instructions on how to sign up for a GitHub and Render account respectively, please refer to the following pages.
-
-{% hint style="info" %}
-**Note:** You will need to create a GitHub account first before creating a Render account. You will be using the "Sign up with GitHub" option when creating an account on Render.
-{% endhint %}
-
-{% content-ref url="../pre-work/tooling-and-software/github.md" %}
-[github.md](../pre-work/tooling-and-software/github.md)
-{% endcontent-ref %}
-
-{% content-ref url="../pre-work/tooling-and-software/render/" %}
-[render](../pre-work/tooling-and-software/render/)
-{% endcontent-ref %}
-
-### Instructions on setting up your sample web app
-
-{% hint style="info" %}
-If you prefer to watch a video of this setup you may watch it [here](https://drive.google.com/file/d/18UTrfh8eo3emeDxEZ32Kig6N2qdvDi-c/view?usp=sharing) instead.
-{% endhint %}
-
-#### Create a new GitHub Repository
+### 1. Create a new GitHub Repository
 
 * Go to [https://github.com/new](https://github.com/new) to create a new repository
 * Type in your own repository name (this could be any name)
@@ -54,18 +18,16 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 * Note that your default branch may be called "master" or "main", this is okay and you can leave it (mine is currently set as "develop").
 * Click on "Create repository" to create your new GitHub Repository
 
-
-
 <figure><img src="../.gitbook/assets/sample-2.avif" alt=""><figcaption><p>A sample of the options selected before clicking "Create repository"</p></figcaption></figure>
 
-#### 2. Open your newly created repository in Codespaces
+### 2. Open your newly created repository in Codespaces
 
 * You should have been re-directed to your newly created repository
 * Click on the green "Code" button, select the "Codespaces" tab and click **"Create Codespace on develop"**. (Note: your branch may be called "master" or "main" and this is fine)
 
 <figure><img src="../.gitbook/assets/sample-3.avif" alt=""><figcaption><p>Click on create codespace to open up codespaces for your repository</p></figcaption></figure>
 
-#### 3. Download the source code and unzip the file
+### 3. Download the source code and unzip the file
 
 * Your GitHub Codespace should have opened up in a new tab after creating a codespace in the previous step.
 
@@ -77,7 +39,7 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 <figure><img src="../.gitbook/assets/sample-4.avif" alt=""><figcaption><p>You should see the following files and folders after unzipping the zip file</p></figcaption></figure>
 
-#### 4. Drag and drop sample app code into Codespaces
+### 4. Drag and drop sample app code into Codespaces
 
 * After completing Step 2, a new tab should have opened with your Codespace similar to the image shown below.
 
@@ -98,7 +60,7 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 <figure><img src="../.gitbook/assets/sample-9.avif" alt=""><figcaption><p>Note the newly added folders of "prisma", "public", "views" and files "package-lock.json", "package.json", "server.js"</p></figcaption></figure>
 
-#### 5. Commit & Push to your repository
+### 5. Commit & Push to your repository
 
 * Click on the Source Control icon (the icon which has blue numbers on it, in the image above it's the third tab on the left)
 * Enter a commit message of "Uploaded sample code"
@@ -113,8 +75,6 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 * Another pop up may appear at the bottom right of your screen, select the option of "Yes"
 
-
-
 <figure><img src="../.gitbook/assets/sample-12.avif" alt=""><figcaption><p>Select "Yes" should this pop-up appear on the bottom right of your screen</p></figcaption></figure>
 
 * Check that your files are in your GitHub repository by going to https://github.com and selecting the repository you created in Step 1
@@ -125,7 +85,7 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 <figure><img src="../.gitbook/assets/sample-14.avif" alt=""><figcaption><p>The files should now be in your repository you created</p></figcaption></figure>
 
-#### 6. Create a new PostgreSQL database on Render
+### 6. Create a new PostgreSQL database on Render
 
 * Go to [https://dashboard.render.com/new/database](https://dashboard.render.com/new/database) to create a new PostgreSQL database on Render.
 * Type in a Name for your PostgreSQL instance (I've named mine techup-sample-database)
@@ -139,9 +99,13 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 <figure><img src="../.gitbook/assets/sample-15.avif" alt=""><figcaption><p>Enter a Name for your instance and change the Region to Singapore while leaving other fields as their default values</p></figcaption></figure>
 
-
-
 <figure><img src="../.gitbook/assets/sample-16.avif" alt=""><figcaption><p>Change your Instance Type to FREE before clicking on Create Database</p></figcaption></figure>
+
+{% hint style="info" %}
+Note that, at this step, you may be asked to enter your **credit card details** to verify your identity; without which, you cannot proceed.&#x20;
+
+We would recommend that you proceed to do so. For the programme, you should not be incurring any expenses from the use of Render, as we will be using the **free plan** by default. That said, should you be using a paid plan for improved functionality, you should also be able to claim for reimbursement, as each participant has been [allocated a $100 budget](../pre-work/tooling-and-software/tooling-claims-instructions.md) for tooling purposes.&#x20;
+{% endhint %}
 
 * Your database should now be created (after about 30 seconds)
 * Scroll down to the section on Connections and take note of the `External Database URL`
@@ -150,7 +114,7 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 <figure><img src="../.gitbook/assets/sample-17.avif" alt=""><figcaption><p>Click on "Copy to clipboard" for the External Database URL to copy this URL for use later</p></figcaption></figure>
 
-#### 7. Create a new Web Service on Render
+### 7. Create a new Web Service on Render
 
 * Go to [https://dashboard.render.com/create?type=web](https://dashboard.render.com/create?type=web) to create a new Web Service (alternatively you may also click on the purple New + button at the top of the page and select Web Service)
 * Ensure "Build and deploy from a Git repository" is selected then click Next
@@ -169,8 +133,6 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 * Leave the Runtime as "Node"
 * Change the Build Command to `yarn; npx prisma db push; npx prisma generate`
 
-
-
 <figure><img src="../.gitbook/assets/sample-20.avif" alt=""><figcaption><p>Change the Build Command to as shown above</p></figcaption></figure>
 
 * Add the Start Command of `node server.js`
@@ -188,7 +150,7 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 <figure><img src="../.gitbook/assets/sample-23.avif" alt=""><figcaption><p>Your app is ready once you see "Your service is live 🎉"</p></figcaption></figure>
 
-#### 8. Accessing your newly deployed web application
+### 8. Accessing your newly deployed web application
 
 * At the top of the same deploy page with the logs, you will see a URL (in my case it is [https://techup-blog.onrender.com](https://techup-blog.onrender.com/)). Click on this link and it will bring you to your web application.
 
@@ -200,7 +162,7 @@ If you prefer to watch a video of this setup you may watch it [here](https://dri
 
 * Have fun playing around with the sample web app by Adding and Deleting blog posts!
 
-### Optional: How do I view what is inside my Postgres database which I created on Render.com?
+## Optional: How do I view what is inside my Postgres database which I created on Render.com?
 
 #### 1. Download and install TablePlus from [https://tableplus.com/](https://tableplus.com/)
 

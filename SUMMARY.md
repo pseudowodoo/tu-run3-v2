@@ -1,7 +1,6 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
-  * [ℹ️ Announcement History](readme/announcements.md)
   * [Venues](readme/venues.md)
   * [📖 Frequently Asked Questions](readme/frequently-asked-questions.md)
   * [💌 Contact Persons](readme/contact-persons.md)
@@ -17,14 +16,14 @@
   * [Render](pre-work/tooling-and-software/render/README.md)
     * [For Websites without Backend (Default for TechUp)](pre-work/tooling-and-software/render/for-websites-without-backend-default-for-techup.md)
     * [For Websites with Backend (For Advanced Learners)](pre-work/tooling-and-software/render/for-websites-with-backend-for-advanced-learners.md)
-* [🌎 Mandatory Reading on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
+* [🌎 \[Mandatory\] Readings on How the Internet Works](pre-work/mandatory-reading-on-how-the-internet-works.md)
 * [👾 \[Mandatory\] Web Development Course](pre-work/mandatory-course-udemy.md)
 * [👾 \[Superseded\] Mandatory Course (Udemy)](pre-work/mandatory-course-udemy-1.md)
 
 ***
 
 * [🛠️ IN-COURSE TOOLING](in-course-tooling/README.md)
-  * [📲 Sample Web App](in-course-tooling/sample-web-app.md)
+  * [📲 Building a Sample Web App](in-course-tooling/sample-web-app.md)
   * [Cloudflare](in-course-tooling/cloudflare.md)
   * [Google Analytics](in-course-tooling/google-analytics.md)
 * [📚 Programme Materials](programme-materials.md)
@@ -43,7 +42,7 @@
 * [Web App Requirements](about-techup/expected-deliverables/web-app-requirements.md)
 * [❗ Your Deliverables Sheet](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
 * [🎤 Post-User Interview Reflections (8 Nov)](techup-challenge/post-user-interview-reflections-8-nov.md)
-* [Web App Presentation](techup-challenge/web-app-presentation.md)
+* [🔊 WebApp Presentation (WAP) Day (19-20 Nov)](techup-challenge/webapp-presentation-wap-day-19-20-nov.md)
 
 ## About TechUp
 
@@ -62,12 +61,15 @@
 
 * [Mandatory Surveys](admin-instructions/mandatory-surveys.md)
 * [❓ Give Us Feedback](admin-instructions/give-us-feedback.md)
-* [☑️ Submit your problem statement here](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
 
 ## Web App Presentations
 
 * [❓ Format](web-app-presentations/format.md)
 * [❓ Presentation Schedule](web-app-presentations/presentation-schedule.md)
+
+***
+
+* [ℹ️ Announcement History](announcements.md)
 
 ## Demo Day
 
@@ -97,7 +99,8 @@
 
 ## Hidden Group Example
 
-* [You can hide a group or page](hidden-group-example/you-can-hide-a-group-or-page.md)
+* [You can hide a group or page](hidden-group-example/you-can-hide-a-group-or-page/README.md)
+  * [📲 Copy of Sample Web App](hidden-group-example/you-can-hide-a-group-or-page/sample-web-app.md)
 * [🚶 Self-Directed Learning Roadmap](hidden-group-example/self-directed-learning-roadmap.md)
 * [Learning Points](hidden-group-example/policy-takeaways/README.md)
   * [Slack Checklist](hidden-group-example/policy-takeaways/slack-checklist.md)

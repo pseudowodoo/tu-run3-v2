@@ -1,6 +1,6 @@
 # 💌 Contact Persons
 
-Please first check the [FAQs ](frequently-asked-questions.md)or [Announcement ](announcements.md)pages
+Please first check the [FAQs ](frequently-asked-questions.md)or [Announcement ](../announcements.md)pages
 
 ### Access Pass / Laptop Issues
 

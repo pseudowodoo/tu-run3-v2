@@ -17,7 +17,7 @@ Please refer to [Slack Guide](pre-work/tooling-and-software/slack.md) to join ou
 
 ### Refer to the latest Announcements
 
-Please refer to announcements made [here ](readme/announcements.md)and on Slack for the latest.
+Please refer to announcements made [here ](announcements.md)and on Slack for the latest.
 
 ***
 
