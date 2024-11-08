@@ -73,9 +73,10 @@ Self Paced Learning  - Office Hours / Project Work&#x20;
 
 {% tabs %}
 {% tab title="Mon 11 Nov" %}
-Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17)&#x20;
+Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17) \
+Registration: 9.15 am - 10.00 am
 
-<table><thead><tr><th width="190">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30 – 10:00am</td><td><p>Mid-Programme Recap</p><p><em>Digital Academy</em></p></td></tr><tr><td>10.00 – 12:00pm</td><td><p>Product Metrics Case Studies</p><p><em>Lennard Lim, Lead Product Manager, OGP</em></p></td></tr><tr><td>12.00 – 1.30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:30pm</td><td><p>Web App Development: Backend</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>3:30 – 5:00pm</td><td>Self-paced learning / Project Work </td></tr></tbody></table>
+<table><thead><tr><th width="190">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10.00 am</td><td><p>Mid-Programme Recap</p><p><em>Digital Academy</em></p></td></tr><tr><td>10.00 – 12:00pm</td><td><p>Product Metrics Case Studies</p><p><em>Lennard Lim, Lead Product Manager, OGP</em></p></td></tr><tr><td>12.00 – 1.30pm</td><td>Lunch Break</td></tr><tr><td>1:30 – 3:30pm</td><td><p>Web App Development: Backend</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>3:30 – 5:00pm</td><td>Self-paced learning / Project Work </td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Tue 12 Nov" %}
