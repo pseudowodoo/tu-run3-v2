@@ -36,6 +36,7 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 4. [Overview of CSS](https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152https://docs.google.com/presentation/d/15hGVuy630iMFga7RZD77Bft9JhJNuKbETMtiMCJxWwI/edit#slide=id.g270c626dd25\_0\_152): (29 Oct) - Facilitator: Winston Teo
 5. [Mobile vs Web Apps](https://docs.google.com/presentation/d/1NuGL7rPHdbBAH0Mo6LS8wzhy4CPAW120lbPyAxnn7Cw/edit#slide=id.g26c09f01acf\_0\_129) (30 Oct) - Facilitator: Stephanie Siow
 6. [Overview of JavaScript](https://docs.google.com/presentation/d/1CXiN0koSylM\_22-HZmxboNmfmtafJOjQjbqyUOIJQqM/edit#slide=id.g2fc71325947\_2\_55) (4 Nov) - Facilitator: Winston Teo
+7. [Overview of Backend ](https://docs.google.com/presentation/d/1iYPUtL8Bls5PZRTdWSppd3e2u-q-0a40ocKpY40-qdY/edit#slide=id.g26d0acd0e81\_0\_76)(11 Nov) - Facilitator: Winston Teo
 {% endtab %}
 
 {% tab title="Recordings" %}
