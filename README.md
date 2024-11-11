@@ -46,7 +46,7 @@ Training hours are typically from 9:00am to 6.00pm, unless otherwise stated.
 3. **Next Step**: **Build your web app and prepare for WebApp Presentation (WAP) Day**:
    * Deadline for building your web app: **15th Nov (Fri), EOD**
    * Refer to the [requirements here](about-techup/expected-deliverables/web-app-requirements.md), to view what is needed for your web app to pass the course requirements.
-   * WAP Days fall on **19th-20th Nov**, during which you will be required to present your web apps. For more details, refer to [this page](techup-challenge/webapp-presentation-wap-day-19-20-nov.md).&#x20;
+   * WAP Days fall on **19th-20th Nov**, during which you will be required to present your web apps. For more details, refer to [this page](techup-challenge/webapp-presentation-wap-day-19-20-nov/).&#x20;
 
 ***
 
