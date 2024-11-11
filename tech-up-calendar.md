@@ -82,7 +82,7 @@ Registration: 9.15 am - 10.00 am
 {% tab title="Tue 12 Nov" %}
 Venue: JEM Office Tower Combined Rooms 1&2 (Lv. 17)&#x20;
 
-<table><thead><tr><th width="202">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30 – 11:00am</td><td><p>Google Analytics &#x26; How to Set Up</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>11.00 – 11.15am</td><td>Break (15 mins) </td></tr><tr><td>11:15 – 12:30pm</td><td><p>WOGAA in Government</p><p><em>Nicholas and Lee Yi Sheng, WOGAA</em></p></td></tr><tr><td>12.30 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2:00 – 2:30pm</td><td><p>Admin Brief on Web App Presentations &#x26; Demo Day</p><p><em>Digital Academy</em></p></td></tr><tr><td>2:30 – 5:00pm</td><td>Self-paced learning / Project Work </td></tr></tbody></table>
+<table><thead><tr><th width="202">Time</th><th>Programme</th></tr></thead><tbody><tr><td>9:30 – 11:00am</td><td><p>Google Analytics &#x26; How to Set Up</p><p><em>Winston Teo, Head of Engineering Practice</em></p></td></tr><tr><td>11.00 – 11.15am</td><td>Break (15 mins) </td></tr><tr><td>11:15 – 12:30pm</td><td><p>WOGAA in Government</p><p><em>Nicholas and Lee Yi Sheng, WOGAA</em></p></td></tr><tr><td>12.30 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2:00 – 3:30pm</td><td><p>Admin Brief on Web App Presentations &#x26; Demo Day</p><p><em>Digital Academy</em></p></td></tr><tr><td>2:30 – 5:00pm</td><td>Self-paced learning / Project Work </td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Wed 13 Nov" %}
