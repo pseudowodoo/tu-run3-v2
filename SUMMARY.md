@@ -44,7 +44,7 @@
 * [🎤 Post-User Interview Reflections (8 Nov)](techup-challenge/post-user-interview-reflections-8-nov.md)
 * [🔊 WebApp Presentation (WAP) Day (19-20 Nov)](techup-challenge/webapp-presentation-wap-day-19-20-nov/README.md)
   * [Learning Groups for WAP](techup-challenge/webapp-presentation-wap-day-19-20-nov/learning-groups-for-wap.md)
-* [Demo Day](techup-challenge/demo-day.md)
+* [🏆 Demo Day](techup-challenge/demo-day.md)
 
 ## About TechUp
 

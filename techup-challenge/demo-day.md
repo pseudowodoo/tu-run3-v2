@@ -1,4 +1,4 @@
-# Demo Day
+# 🏆 Demo Day
 
 ### About TechUp Demo Day
 
