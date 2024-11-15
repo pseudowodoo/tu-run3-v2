@@ -39,6 +39,7 @@ Note: All materials produced for TechUp are co-owned by Smart Nation Group, Open
 7. [Policy Implications Primer](https://docs.google.com/presentation/d/1gWZyT5kdLiw6rtErTn\_eNjisaNW\_I-7yWmbzslTMfJg/edit?usp=drive\_link) (5 Nov) - Facilitator: Patrick Pang
 8. [Overview of Backend ](https://docs.google.com/presentation/d/1iYPUtL8Bls5PZRTdWSppd3e2u-q-0a40ocKpY40-qdY/edit#slide=id.g26d0acd0e81\_0\_76)(11 Nov) - Facilitator: Winston Teo
 9. [Google Analytics Setup](https://docs.google.com/presentation/d/1U-1uJYO6urCTYaNbcfxc\_vBVDgQinvV1Uw9fmZfgwu4/edit#slide=id.g30c26fd6947\_2\_55) (12 Nov) - Facilitator: Winston Teo
+10. [WOGGA in Government](https://docs.google.com/presentation/d/1l1T\_cIDCyCCi\_3d320Y0j5PEtrODtOx-0XfPeecnNtY/edit#slide=id.g313d04f6ce1\_2\_166) (12 Nov) - Facilitator: Nicholas and Lee Yi Sheng
 {% endtab %}
 
 {% tab title="Recordings" %}
