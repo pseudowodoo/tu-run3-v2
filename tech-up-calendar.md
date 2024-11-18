@@ -114,7 +114,9 @@ Self Paced Learning  - Office Hours / Project Work&#x20;
 {% tab title="Tue 19 Nov" %}
 ### Web App Presentation (Day 1)
 
-Venue: MDDI Rooms (to be confirmed)
+Venue: MDDI Building (140 Hill Street, Old Police Station, Singapore 179369)\
+\
+Please arrive at least 15 mins before your scheduled timeslot, and report to Room 4 on Level 1.
 
 <table><thead><tr><th width="199">Time</th><th>Programme</th></tr></thead><tbody><tr><td>09:30 - 12:30pm</td><td><p>Web App Presentation (WAP)</p><p><em>Assigned Groups</em></p></td></tr><tr><td>12.30 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2.00 - 5.00pm</td><td><p>Web App Presentation (WAP)</p><p><em>Assigned Groups</em></p></td></tr></tbody></table>
 
@@ -124,7 +126,9 @@ Venue: MDDI Rooms (to be confirmed)
 {% tab title="Wed 20 Nov" %}
 ### Web App Presentation (Day 2)
 
-Venue: MDDI Rooms (to be confirmed)
+Venue: MDDI Building, 140 Hill Street, Old Police Station, Singapore 179369\
+\
+Please arrive at least 15 minutes early before your scheduled timeslot, and report to Room 4 on Level 1.
 
 <table><thead><tr><th width="199">Time</th><th>Programme</th></tr></thead><tbody><tr><td>09:30 - 12:30pm</td><td><p>Web App Presentation (WAP)</p><p><em>Assigned Groups</em></p></td></tr><tr><td>12.30 – 2.00pm</td><td>Lunch Break</td></tr><tr><td>2.00 - 5.00pm</td><td><p>Web App Presentation (WAP)</p><p><em>Assigned Groups</em></p></td></tr></tbody></table>
 {% endtab %}
