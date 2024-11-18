@@ -8,11 +8,11 @@ Slack will be the main channel of communication and information dissemination fo
 
 You should have already received the email invite to TechUp’s channels on Slack from GovTech. Please be reminded to change your profile picture once you have set up your account, for our identification purposes.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Invitation to Join TechUp's Channels</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Invitation to Join TechUp's Channels</p></figcaption></figure>
 
 1. **Click on "Join Slack" on the Slack invitation email**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Create Account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Create Account</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Fill in Details</p></figcaption></figure>
 
@@ -46,7 +46,7 @@ You should have already received the email invite to TechUp’s channels on Slac
 
 ***
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 You are highly encouraged to download Slack on your phone and the laptop which you will be using for easier access during the course. For those of you who are loaning a laptop from us, Slack has already been pre-downloaded for you.
 
