@@ -143,7 +143,7 @@ Self Paced Learning  - Office Hours / Project Work&#x20;
 
 Venue: MDDI Atrium
 
-<table><thead><tr><th width="207">Time</th><th>Programme</th></tr></thead><tbody><tr><td>11.30 - 12.30pm</td><td>Reflection of Learning Journey</td></tr><tr><td>12.30 – 1.30pm</td><td>Lunch Break</td></tr><tr><td>1.30 - 3.00pm</td><td><p>Demo Day</p><p><em>Set Up Booths / Presentation</em></p></td></tr><tr><td>3.00 - 3.30pm</td><td>Tea Break</td></tr><tr><td>3.30 - 4.30pm</td><td><p>Demo Day</p><p><em>Prize-Giving / Closing Speech / Photo-Taking</em></p></td></tr></tbody></table>
+<table><thead><tr><th width="207">Time</th><th>Programme</th></tr></thead><tbody><tr><td>10.30 - 12.30pm</td><td>Reflection of Learning Journey</td></tr><tr><td>12.30 – 1.30pm</td><td>Lunch Break</td></tr><tr><td>1.30 - 3.00pm</td><td><p>Demo Day</p><p><em>Set Up Booths / Presentation</em></p></td></tr><tr><td>3.00 - 3.30pm</td><td>Tea Break</td></tr><tr><td>3.30 - 4.30pm</td><td><p>Demo Day</p><p><em>Prize-Giving / Closing Speech / Photo-Taking</em></p></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 
