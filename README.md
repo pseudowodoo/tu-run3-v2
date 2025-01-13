@@ -21,6 +21,10 @@ layout:
 
 ### Key Dates and Information
 
+{% hint style="success" %}
+**TechUp Run 3** is successfully concluded.&#x20;
+{% endhint %}
+
 {% hint style="info" %}
 **TechUp Run 3** is a 4-week programme, from **28 Oct 2024 to 22 Nov 2024**
 
@@ -40,7 +44,7 @@ Training hours are typically from 9:00am to 6.00pm, unless otherwise stated.
 2.  **Post-Interview Reflections:** Please submit your post-interview reflections by **8th Nov (Fri), EOD**.
 
     * For further details on this assignment, view [this page](techup-challenge/post-user-interview-reflections-8-nov.md)
-    * Submit your reflections in [this sheet](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing).&#x20;
+    * Submit your reflections in [this sheet](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing).&#x20;
 
 
 3. **Next Step**: **Build your web app and prepare for WebApp Presentation (WAP) Day**:
