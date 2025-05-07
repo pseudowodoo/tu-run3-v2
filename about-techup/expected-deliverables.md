@@ -25,7 +25,7 @@ To achieve this goal, there are three milestones (the _3P's_) that await you in 
    \
 
 2. _Milestone 2_: **Prototype** your Idea towards Success\
-   _Nobody_ builds a product right at the first try. To ensure that your hypotheses about your intended product's desirability are valid, you will need to build workable prototypes and, importantly, _test_ them with actual users to gather key insights that could shape your ideas towards building a stronger product. \
+   &#xNAN;_&#x4E;obody_ builds a product right at the first try. To ensure that your hypotheses about your intended product's desirability are valid, you will need to build workable prototypes and, importantly, _test_ them with actual users to gather key insights that could shape your ideas towards building a stronger product. \
    \
 
 3. _Milestone 3_: Build and Showcase your **Product**\

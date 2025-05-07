@@ -60,7 +60,13 @@ description: >-
 
 <figure><img src="../.gitbook/assets/sample-9.avif" alt=""><figcaption><p>Note the newly added folders of "prisma", "public", "views" and files "package-lock.json", "package.json", "server.js"</p></figcaption></figure>
 
-### 5. Commit & Push to your repository
+### 5. Update Prisma to the latest version in the terminal&#x20;
+
+* Under the codespace terminal, please enter the command: `npm install prisma@latest @prisma/client@latest` . This command will help to update prisma to the latest version.
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+### 6. Commit & Push to your repository
 
 * Click on the Source Control icon (the icon which has blue numbers on it, in the image above it's the third tab on the left)
 * Enter a commit message of "Uploaded sample code"
