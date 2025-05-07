@@ -24,6 +24,7 @@
 
 * [🛠️ IN-COURSE TOOLING](in-course-tooling/README.md)
   * [📲 Building a Sample Web App](in-course-tooling/sample-web-app.md)
+  * [TablePlus (for Database)](in-course-tooling/tableplus-for-database.md)
   * [Cloudflare](in-course-tooling/cloudflare.md)
   * [Google Analytics](in-course-tooling/google-analytics.md)
 * [📚 Programme Materials](programme-materials.md)
@@ -40,7 +41,7 @@
 
 * [📱 Deliverables & Milestones](about-techup/expected-deliverables.md)
 * [Web App Requirements](about-techup/expected-deliverables/web-app-requirements.md)
-* [❗ Your Deliverables Sheet](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F\_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
+* [❗ Your Deliverables Sheet](https://docs.google.com/spreadsheets/d/1BBYjDF0dL5Qy0F_1kIXR9FjWSi8p1RAOyg7f933XqwQ/edit?usp=sharing)
 * [🎤 Post-User Interview Reflections (8 Nov)](techup-challenge/post-user-interview-reflections-8-nov.md)
 * [🔊 WebApp Presentation (WAP) Day (19-20 Nov)](techup-challenge/webapp-presentation-wap-day-19-20-nov/README.md)
   * [Learning Groups for WAP](techup-challenge/webapp-presentation-wap-day-19-20-nov/learning-groups-for-wap.md)

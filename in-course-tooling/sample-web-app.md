@@ -131,7 +131,7 @@ We would recommend that you proceed to do so. For the programme, you should not 
 * Ensure that your Branch is selected (yours may be called "master" or "main")
 * Leave the Root Directory field blank
 * Leave the Runtime as "Node"
-* Change the Build Command to `yarn; npx prisma db push; npx prisma generate`
+* Change the **Build Command** to `yarn; npm install prisma@latest @prisma/client@latest; npx prisma db push; npx prisma generate; npm install;`
 
 <figure><img src="../.gitbook/assets/sample-20.avif" alt=""><figcaption><p>Change the Build Command to as shown above</p></figcaption></figure>
 
@@ -162,30 +162,3 @@ We would recommend that you proceed to do so. For the programme, you should not 
 
 * Have fun playing around with the sample web app by Adding and Deleting blog posts!
 
-## Optional: How do I view what is inside my Postgres database which I created on Render.com?
-
-#### 1. Download and install TablePlus from [https://tableplus.com/](https://tableplus.com/)
-
-<figure><img src="../.gitbook/assets/sample-26.avif" alt=""><figcaption><p>Dowload TablePlus for Mac or TablePlus for Windows depending on what laptop you have</p></figcaption></figure>
-
-#### 2. Open TablePlus and click on the + icon to add a new connection
-
-<figure><img src="../.gitbook/assets/sample-27.avif" alt=""><figcaption><p>Click on the + icon to add a new connection</p></figcaption></figure>
-
-#### 3. Click on Import from URL
-
-<figure><img src="../.gitbook/assets/sample-28.avif" alt=""><figcaption><p>Click on Import from URL</p></figcaption></figure>
-
-#### 4. Paste the `External Database URL` (which you copied earlier when setting up Postgres) into the text field then click Import
-
-
-
-<figure><img src="../.gitbook/assets/sample-29.avif" alt=""><figcaption><p>Paste your External URL into the field then click Import</p></figcaption></figure>
-
-#### 5. Click on Connect (you may rename the "Name" field or leave it as it's default)
-
-<figure><img src="../.gitbook/assets/sample-30.avif" alt=""><figcaption><p>Click on connect</p></figcaption></figure>
-
-#### 6. You have now successfully connected to the database from TablePlus and you may click on the Post table in the left sidebar to view the contents
-
-<figure><img src="../.gitbook/assets/sample-31.avif" alt=""><figcaption><p>Success! You can click on the Post table to view the contents</p></figcaption></figure>
